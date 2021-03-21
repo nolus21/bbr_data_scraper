@@ -1,0 +1,293 @@
+﻿CVR;P-nummer;mainPno;namePno;addressPno;zipcodePno;cityPno;protectedPno;phonePno;emailPno;startdatePno;enddatePno;employeesPno;addresscoPno;industrycodePno;industrydescPno
+40625550;1024831686;True;CC Produktion ApS;Alrøvej 97;8300;Odder;True;;amstrup@ccproduktion.dk;26/06 - 2019;;10-19;Christian Christensen;14610;Avl af smågrise
+33872364;1017070459;True;BEDERHOLM SVINEPRODUKTION ApS;Nautrupvej 20;7830;Vinderup;False;;;18/08 - 2011;;2-4;Sune Tarquini Mårtensson;14610;Avl af smågrise
+32305741;1017594377;True;GOSVIG SVINEPRODUKTION ApS;Mollerupvej 25;7860;Spøttrup;False;;;02/04 - 2012;;2-4;;14610;Avl af smågrise
+26583667;1009079005;True;HORSHOLM A/S;Ulkærvej 11;7100;Vejle;False;;;03/04 - 2002;;2-4;;14610;Avl af smågrise
+24221512;1006421365;True;Foersom Genetik ApS;Lynggårdsvej 4;6880;Tarm;True;;;18/06 - 1999;;10-19;;14610;Avl af smågrise
+10001528;1005277149;False;LANGVANG A/S; 3;9999;Ukendt;False;;;22/05 - 1973;31/12 - 1973;;;980000;Uoplyst
+10001528;1010088689;True;LANGVANG A/S;Grønborgvej 8;6900;Skjern;False;;;01/08 - 2003;;10-19;;14610;Avl af smågrise
+38921932;1022822795;True;Hedegaard Svineproduktion ApS;Hermodsvej 14;7480;Vildbjerg;False;;;31/08 - 2017;;;;14610;Avl af smågrise
+38921932;1023156438;False;Hedegaard Svineproduktion ApS;Grønbjergvej 20;6973;Ørnhøj;True;97137428;;01/10 - 2017;;2-4;;14610;Avl af smågrise
+40617159;1024822555;True;Avlscenter Kauergaard A/S;Over Kærsholm Vej 4;8620;Kjellerup;True;;;20/06 - 2019;;10-19;;14610;Avl af smågrise
+14361073;1022726656;False;Jacobslund;Flemmingvej 16;8762;Flemming;True;75671042;kontor@siljebjerggaard.dk;30/06 - 2017;;;Siljebjerggaard Svineproduktion Aps;14610;Avl af smågrise
+14361073;1000729330;True;SILJEBJERGGAARS SVINEPRODUKTION APS;Bredvadmøllevej 42;8740;Brædstrup;False;;;01/01 - 1990;;5-9;;14610;Avl af smågrise
+40608338;1024812428;True;Skinnerupgaard ApS;Tranhøjvej 5;7700;Thisted;True;;;24/06 - 2019;;5-9;;14610;Avl af smågrise
+19202208;1016974230;False;Engbakkegård Svineproduktion;Lummerbækvej 33;6800;Varde;False;;dpl@dpl-invest.dk;04/07 - 2011;31/08 - 2014;0;;14610;Avl af smågrise
+19202208;1003722702;True;MUNKLINDE MULTISITE A/S;Søbjergvej 83;7441;Bording;False;;;01/01 - 1996;;5-9;;14610;Avl af smågrise
+20445084;1004329890;True;FREDSHOLM MULTISITE K/S;Hovvasen 9;4983;Dannemare;False;;;01/08 - 1997;;5-9;;14610;Avl af smågrise
+19720640;1003950265;True;AVDEBOGÅRD SVINEPRODUKTION APS;Bjergskovvej 24;4300;Holbæk;False;;;01/07 - 1996;;5-9;;14610;Avl af smågrise
+15835443;1000986278;True;BONDETOFTEGAARD A/S;Lillemarken 5;5762;Vester Skerninge;False;62241421;;01/08 - 1991;;2-4;;14610;Avl af smågrise
+26831652;1009390185;True;BREDEBJERGGÅRD SVINEPRODUKTION ApS;Ringstedvej 260;4350;Ugerløse;False;;;18/10 - 2002;;5-9;;14610;Avl af smågrise
+36455799;1019963485;True;B.E. AGRO ApS;Tueshøj 1;6950;Ringkøbing;False;;;25/11 - 2014;;5-9;;14610;Avl af smågrise
+40715282;1024945851;True;Melvej Landbrug ApS;Sdr. Højrupvejen 29;5750;Ringe;True;;soren@melvejlandbrug.dk;15/08 - 2019;;5-9;;14610;Avl af smågrise
+32320589;1016626240;True;FM LANDBRUG ApS;Bredmosevej 18;9352;Dybvad;True;51364376;fmlandbrug@gmail.com;03/02 - 2011;;10-19;;14610;Avl af smågrise
+32320589;1025115925;False;Bås;Båsvej 8;9352;Dybvad;True;51364376;;09/10 - 2019;;;FM Landbrug ApS;14610;Avl af smågrise
+32320589;1025115917;False;Søndergaard;Ovnstrupvej 6;9352;Dybvad;True;51364376;;09/10 - 2019;;;FM Landbrug ApS;14610;Avl af smågrise
+41159782;1025554023;True;Højgaardgris ApS;Lyngbro 9;7950;Erslev;True;;;07/02 - 2020;;;;14610;Avl af smågrise
+26881455;1009535752;True;GULDHOLT AGRO A/S;Guldforhovedvej 24;7441;Bording;False;;;01/11 - 2002;;10-19;;14610;Avl af smågrise
+14120475;1000683514;True;AVLSCENTRET KOLLUND A/S DIR GUNNAR VESTERGAARD;Okkelsvej 15;7400;Herning;False;96263560;;01/05 - 1990;;0;;14610;Avl af smågrise
+77309616;1002516833;True;SDR SOLSBÆK SVINEFARM APS;Karupvej 89;9300;Sæby;False;98469066;;01/10 - 1984;;10-19;;14610;Avl af smågrise
+77309616;1016458836;False;Brønderslev Mink;Agersigvej 24;9700;Brønderslev;False;;;22/11 - 2010;;2-4;;14610;Avl af smågrise
+35145117;1018358553;True;Ferdinandslund ApS;Nissumgårdsvej 10;8660;Skanderborg;False;;;21/03 - 2013;;1;;14610;Avl af smågrise
+38820060;1022706264;True;GNM 100 ApS;Møllevej 3;6670;Holsted;True;;kontor@avlscentermollevang.dk;20/07 - 2017;;;;14610;Avl af smågrise
+13902941;1000645532;True;Rodskovgruppen ApS;Landevejen 49;8543;Hornslet;False;86996420;;01/02 - 1990;;2-4;;14610;Avl af smågrise
+39746824;1023822373;True;Nybroh ApS;Brønderslevvej 182;9900;Frederikshavn;True;;nybroaps@gmail.com;24/07 - 2018;;2-4;;14610;Avl af smågrise
+38381547;1022148520;True;Bovbjerg Økologi A/S;Mosegårdvej 1;7323;Give;False;;;01/02 - 2017;;5-9;;14610;Avl af smågrise
+38381547;1022765988;False;Bovbjerg Genetik A/S;Bråvej 20;8781;Stenderup;True;24258242;henrik@bovbjerg-okologi.dk;22/05 - 2017;;1;;14610;Avl af smågrise
+38643282;1022445266;True;Holmgaard Agro ApS;Sejlhøjvej 2;7700;Thisted;True;;;10/05 - 2017;;5-9;;14610;Avl af smågrise
+39483971;1023519743;True;Danbred Ulstrupgaard ApS;Ulstrupvej 26;4160;Herlufmagle;True;;;13/04 - 2018;;2-4;;14610;Avl af smågrise
+41281014;1025721248;True;Klaptoft A/S;Nørbæk 22;6950;Ringkøbing;False;;;03/04 - 2020;;10-19;;14610;Avl af smågrise
+40657002;1024869551;True;Kærsminde ApS;Mejlbyvej 28;8370;Hadsten;False;;;08/07 - 2019;;5-9;Rasmus Juhl Rasmussen;14610;Avl af smågrise
+34059306;1017569178;False;Hvidevej 46;Hvidevej 46A;7470;Karup J;False;25231374;ps@gronhojproduktion.dk;26/03 - 2012;;5-9;;14610;Avl af smågrise
+34059306;1017569119;False;Mønstedvej 25;Mønstedvej 25;7470;Karup J;False;25231374;ps@gronhojproduktion.dk;26/03 - 2012;;0;;14610;Avl af smågrise
+34059306;1017569194;False;Herningvej 58;Herningvej 58;8800;Viborg;False;25231374;ps@gronhojproduktion.dk;26/03 - 2012;;;;14610;Avl af smågrise
+34059306;1017569151;False;Fallesgårdevej 30;Fallesgårdevej 30;7470;Karup J;False;25231374;ps@gronhojproudktion.dk;26/03 - 2012;;5-9;;14610;Avl af smågrise
+34059306;1017569224;False;Alstrup;Havndalvej 28;9550;Mariager;False;25231374;ps@gronhojproduktion.dk;26/03 - 2012;;5-9;;14610;Avl af smågrise
+34059306;1017291188;True;GRØNHØJ PRODUKTION ApS;Guldborgvej 12D;8800;Viborg;False;87264026;;29/11 - 2011;;0;;14610;Avl af smågrise
+39712741;1023780980;True;ORIGO Agro ApS;Birketvedvejen 6;5290;Marslev;False;;;09/07 - 2018;;0;;14610;Avl af smågrise
+39712741;1024638347;False;Origo Agro ApS;Glavendrupvej 10;5450;Otterup;True;51232509;lasse.hansen@birketvedgaard.dk;01/04 - 2019;;5-9;;14610;Avl af smågrise
+39712741;1024638355;False;Origo Agro ApS;Fredskovvej 150;5270;Odense N;True;51232509;lasse.hansen@birketvedgaard.dk;01/04 - 2019;;2-4;;14610;Avl af smågrise
+34696268;1017897256;True;MUNKEBOGÅRDEN ApS;Rokkergyden 2;5772;Kværndrup;False;62271213;hessellund@rokker.dk;31/08 - 2012;;5-9;Hessellund;14610;Avl af smågrise
+36969911;1020589848;True;PL Agro, Vile ApS;Vilevej 2B;7870;Roslev;True;;;10/07 - 2015;;5-9;;14610;Avl af smågrise
+34458464;1017541389;True;TORNHØJGAARD ApS;Tybjergvej 20;4160;Herlufmagle;False;;;12/03 - 2012;;5-9;;14610;Avl af smågrise
+31625769;1014644861;True;OTTESTRUP LANDBRUGSANPARTSSELSKAB;Understedvej 153;9300;Sæby;False;98473020;;14/08 - 2008;;2-4;;14610;Avl af smågrise
+38876686;1022771236;True;Livestock feed tests Denmark ApS;Pebersmarkvej 31;6372;Bylderup-Bov;False;;;23/08 - 2017;;1;;14610;Avl af smågrise
+40765433;1025007766;True;Kodamgaard A/S;Rosbjergvej 15;9500;Hobro;False;21770453;hojsgaardfarm@gmail.com;03/09 - 2019;;5-9;Jesper Højsgaard;14610;Avl af smågrise
+41324341;1025779181;True;FERKEL ApS;Dølbyvej 166;7800;Skive;False;;;24/04 - 2020;;5-9;;14610;Avl af smågrise
+37780081;1021488670;True;Sønderløkkegård ApS;Skovby Bygade 15;6200;Aabenraa;False;;carljohs@gmail.com;06/06 - 2016;;5-9;;14610;Avl af smågrise
+21223271;1004777256;True;TRØLLUNDGAARD 1998 APS;Trøllundvej 11;7250;Hejnsvig;True;;;01/01 - 1998;;5-9;;14610;Avl af smågrise
+39680092;1024455226;False;Tisselhavegård;Kværndrup Vænge 17;5772;Kværndrup;True;51411605;adm@tisselhaveagro.dk;01/09 - 2018;;1;Tisselhaveagro ApS;14610;Avl af smågrise
+39680092;1024455218;False;Klarningård;Klarningvej 4;5750;Ringe;True;51411605;adm@tisselhaveagro.dk;01/09 - 2018;;;Tisselhaveagro ApS;14610;Avl af smågrise
+39680092;1024455153;False;Dyrebjerggård;Dyrebjergvej 7;5772;Kværndrup;True;51411605;adm@tisselhaveagro.dk;01/09 - 2018;;10-19;Tisselhaveagro ApS;14610;Avl af smågrise
+39680092;1023745417;True;Tisselhave Agro ApS;Sønder Ulstrupvej 23;9500;Hobro;False;;;27/06 - 2018;;0;;14610;Avl af smågrise
+38791435;1022656267;True;Prima Svin A/S;Attenagrevej 1;6950;Ringkøbing;True;;;13/07 - 2017;;5-9;;14610;Avl af smågrise
+39686708;1023752405;True;Skelbæk A/S;Humlefægyde 32;6070;Christiansfeld;False;;;28/06 - 2018;;5-9;;14610;Avl af smågrise
+38778595;1022631825;True;Brovst Agro ApS;Overvænget 9;8920;Randers NV;False;;;07/07 - 2017;;;;14610;Avl af smågrise
+41472723;1025976610;False;Kærgaarden Agro A/S;Borupvej 14;9600;Aars;False;;;29/06 - 2020;;;;14610;Avl af smågrise
+38268112;1022021261;True;Stenogaard P/S;Tårnvej 47;7100;Vejle;True;;;12/12 - 2016;;5-9;;14610;Avl af smågrise
+40601724;1024803569;True;Stougaard Agro ApS;Ildvedvej 1;7160;Tørring;False;;;22/06 - 2019;;5-9;;14610;Avl af smågrise
+75252013;1006806185;False;ØSTERBJERGEGÅRD OPFORMERING ApS; 57;9999;Ukendt;False;;;29/06 - 1983;31/12 - 1983;;;980000;Uoplyst
+75252013;1002454387;True;ØSTERBJERGEGÅRD OPFORMERING;Vardevej 157;7280;Sønder Felding;False;;;01/01 - 1984;;10-19;;14610;Avl af smågrise
+41152850;1025544354;True;Kibsdal Komplementar ApS;Mustedvej 61;9740;Jerslev J;True;;bo@kibsdal.dk;10/02 - 2020;;;;14610;Avl af smågrise
+37654302;1021382775;True;A. Dyrberg Holding ApS;Ø. Sneptrupvej 10;7451;Sunds;True;;;02/05 - 2016;;1;Anders Dyrberg;14610;Avl af smågrise
+38895176;1022792624;True;KS Agro ApS;Lundby Mosevej 9;9260;Gistrup;True;98333052;jos@agromail.dk;29/06 - 2017;;10-19;Kåre Skårhøj;14610;Avl af smågrise
+26910447;1009580618;True;KARLSHØJ-DUCH CHRISTIANSEN ApS;Slågårdsvej 22;4660;Store Heddinge;False;;;02/12 - 2002;;0;;14610;Avl af smågrise
+41164948;1025561259;True;Stokbro Grise ApS;Tvedenvej 30;9310;Vodskov;False;;;14/02 - 2020;;;;14610;Avl af smågrise
+41473304;1025977374;False;RUGBALLEGAARD A/S Bjerringbro;Røngevej 29;8850;Bjerringbro;True;;;15/06 - 2020;;;;14610;Avl af smågrise
+39673193;1023738216;True;Sølvbakkegård A/S;Tustrupvej 3;8585;Glesborg;True;;;26/06 - 2018;;10-19;;14610;Avl af smågrise
+13778248;1000623220;True;BJERGMOSE A/S;Varnæsvej 537;6200;Aabenraa;False;;;01/07 - 1989;;1;Kjeld Jørgensen Staugaard;14610;Avl af smågrise
+40337962;1024497441;True;Vængesbjerggaard Aps;Tybjergvej 20;4160;Herlufmagle;True;;phg@phglandbrug.dk;12/03 - 2019;;2-4;;14610;Avl af smågrise
+26135591;1015463879;False;NØRDAL A/S;Risvej 100;8660;Skanderborg;False;75671911;;25/08 - 2009;31/01 - 2015;5-9;;14610;Avl af smågrise
+26135591;1015463917;False;NØRDAL A/S;Nørre Snedevej 76;8762;Flemming;False;75671911;;25/08 - 2009;19/07 - 2015;1;;14610;Avl af smågrise
+26135591;1001331753;False;NØRDAL A/S;Underupvej 8;8740;Brædstrup;False;75671911;;01/03 - 1994;19/07 - 2015;10-19;;14610;Avl af smågrise
+26135591;1015463895;False;NØRDAL A/S;Nørre Snedevej 30;8700;Horsens;False;75671911;;25/08 - 2009;19/07 - 2015;1;;14610;Avl af smågrise
+26135591;1008553013;False;NØRDAL A/S;Nørre-Snede Vej 30;8700;Horsens;False;;;30/06 - 2001;30/06 - 2001;;;12300;Dyrkning af citrusfrugter
+26135591;1015463860;False;NØRDAL A/S;Gl Kattrupvej 23;8732;Hovedgård;False;75671911;;25/08 - 2009;01/11 - 2019;0;;14610;Avl af smågrise
+26135591;1026265742;False;Nørre Snedevej 30;Nørre Snedevej 30;8700;Horsens;True;75671911;;01/09 - 2020;;;;14610;Avl af smågrise
+26135591;1025468399;False;Kollerupvej 19;Kollerupvej 19;8740;Brædstrup;True;28877711;;01/01 - 2020;;1;;14610;Avl af smågrise
+26135591;1025468364;False;Engmarksvej 31;Engmarksvej 31;8700;Horsens;True;28877711;;01/11 - 2019;;;;14610;Avl af smågrise
+26135591;1025468380;False;Kalmarvej 11;Kalmarvej 11;7140;Stouby;True;28877711;;01/11 - 2019;;;;14610;Avl af smågrise
+34603820;1017766364;True;TJØRNTVED A/S;Skovsbovej 14;5900;Rudkøbing;False;;;21/06 - 2012;;20-49;;14610;Avl af smågrise
+34603820;1018206397;False;Biskopstorp;Biskopstorpvej 3;5900;Rudkøbing;False;;;21/06 - 2012;;10-19;;14620;Produktion af slagtesvin
+36054336;1019585146;True;DYNAGRO SOHOLD P/S;Kielsbjergvej 12;6200;Aabenraa;False;20330648;mlp@dynagro.dk;22/05 - 2014;;10-19;;14610;Avl af smågrise
+17055682;1001213323;True;ELLEGAARD GÖTTINGEN MINIPIGS A/S;Sorø Landevej 302;4261;Dalmose;False;58185818;;01/01 - 1993;;20-49;;14610;Avl af smågrise
+39673746;1023738631;True;Tuskærgaard A/S;Tuskærvej 30;8300;Odder;True;40198532;;23/06 - 2018;;10-19;;14610;Avl af smågrise
+75646518;1002466153;False;J K K HAVERSHØJGAARD APS;Jyllandsgade 63;9610;Nørager;False;;;15/02 - 2000;15/02 - 2000;2-4;;12300;Dyrkning af citrusfrugter
+75646518;1010030176;True;KORNUM ØSTERGÅRD ApS;Aalborgvej 55;9670;Løgstør;False;;;01/07 - 2003;;20-49;;14610;Avl af smågrise
+39668483;1023732196;True;Landbruget Holmager ApS;Holmager 2;6940;Lem St;True;;;23/06 - 2018;;20-49;;14610;Avl af smågrise
+35658580;1019115638;True;HOLMEGÅRDENS SVINEPRODUKTION ApS;Katrinevej 17;4200;Slagelse;False;;;07/02 - 2014;;2-4;;14610;Avl af smågrise
+39377195;1025461181;False;Bovbjerg Genetics A/S Thisted;Nordre Kåstrupvej 3;7700;Thisted;True;52170715;;01/10 - 2019;;;;14610;Avl af smågrise
+39377195;1023396897;True;Bovbjerg Genetics A/S;Bråvej 20;8781;Stenderup;True;;;28/02 - 2018;;5-9;;14610;Avl af smågrise
+40648909;1024860260;True;Agerbo Agro ApS;Stenderupvej 30;6100;Haderslev;False;;niels@agerboagro.dk;08/07 - 2019;;;;14610;Avl af smågrise
+40648909;1025368793;False;Agerbo Agro apS;Stenderupvej 23;6100;Haderslev;True;40756699;Niels@agerboagro.dk;01/08 - 2019;;5-9;Stenderupvej 30;14610;Avl af smågrise
+29806071;1012889158;True;ENGHAVEGAARD ApS;Smidstrupvej 19;5400;Bogense;False;;;22/12 - 2006;;5-9;;14610;Avl af smågrise
+26397626;1008863837;True;PH-AGRO ApS;Gultvedholm 1;5772;Kværndrup;False;;;03/01 - 2002;;2-4;Nordtop og Jørgensen;14610;Avl af smågrise
+41297786;1025747816;False;Brokær Svineproduktion ApS;Villumstrupvej 7;5853;Ørbæk;True;40338526;brokaer@dtl-as.dk;15/04 - 2020;;5-9;So-stalden;14610;Avl af smågrise
+41297786;1025741427;True;Brokær Svineproduktion ApS;Industrivej 44;6330;Padborg;True;40338526;;15/04 - 2020;;;;14610;Avl af smågrise
+41297786;1025747794;False;Brokær Svineproduktion ApS;Villumstrupvej 5;5853;Ørbæk;True;40338526;brokaer@dtl-as.dk;15/04 - 2020;;;Smågrisestald;14610;Avl af smågrise
+20786639;1006215415;False;NÆSGÅRD MULTISITE A/S; 135;9999;Ukendt;False;;;16/03 - 1998;31/03 - 1998;;;980000;Uoplyst
+20786639;1004505130;True;NÆSGÅRD MULTISITE A/S;Bringserevej 2E;4850;Stubbekøbing;False;29205717;aa@dpl-invest.dk;16/03 - 1998;;5-9;;14610;Avl af smågrise
+24245543;1006444405;False;JARLFONDEN;Sæbyvej;4291;Ruds Vedby;False;;;16/10 - 1999;19/10 - 1999;;;12110;Malkekvæghold
+24245543;1003096412;False;STRØDAM NATURRESERVAT;Gadevangsvej 109A;3400;Hillerød;False;48240705;;01/01 - 1990;;0;;910400;Botaniske og zoologiske haver samt naturreservater
+24245543;1003096400;True;JARLFONDEN;Sæbyvej 60;4291;Ruds Vedby;False;58200521;ft@frihedslund.dk;01/07 - 1969;;10-19;;14610;Avl af smågrise
+27720188;1010545702;False;MARSLUND A/S;Langergårdvej 8;7600;Struer;False;;;03/05 - 2004;03/05 - 2004;;;12300;Dyrkning af citrusfrugter
+27720188;1000586905;True;MARSLUND A/S;Langergårdvej 8;7600;Struer;False;97861242;;15/07 - 1988;;0;;14610;Avl af smågrise
+38444883;1022219428;True;Åmose Grisen P/S;Jyderupvej 62;4291;Ruds Vedby;False;;;24/02 - 2017;;;;14610;Avl af smågrise
+17983237;1001404550;True;GRÆNGEGÅRDENS LANDBRUGSINVEST A/S;Grænge Skovvej 89B;4891;Toreby L;False;25180390;jb@fjeldbrogaard.dk;15/06 - 1994;;0;John Brædder;14610;Avl af smågrise
+28656505;1015463933;False;NØRDAL PRODUKTION ApS;Bækvej 65;8700;Horsens;False;;;25/08 - 2009;06/06 - 2018;0;;14620;Produktion af slagtesvin
+28656505;1015463941;False;NØRDAL PRODUKTION ApS;Annasmindevej 26;8700;Horsens;False;;;25/08 - 2009;15/07 - 2015;0;;14620;Produktion af slagtesvin
+28656505;1012392725;True;NØRDAL PRODUKTION ApS;Underupvej 8;8740;Brædstrup;False;75671911;ln@noerdal.dk;03/07 - 2006;;0;;14610;Avl af smågrise
+28656505;1024736438;False;Møballegård;Gl Kattrupvej 23;8732;Hovedgård;True;75671911;info@noerdal.dk;01/05 - 2019;;;;14610;Avl af smågrise
+41469633;1025972801;False;Tybjerggaard Breeding A/S;Tybjergvej 20;4160;Herlufmagle;False;;;25/06 - 2020;;-;;14610;Avl af smågrise
+21532983;1005002450;True;SG DPL A/S;Reersnæs Kirkevej 346;4941;Bandholm;False;29205713;aa@dpl-invest.dk;01/01 - 1999;;0;;14610;Avl af smågrise
+20006048;1008966199;False;KONGSDAL MULTISITE A/S;Tømmerupvej 48;;;False;;;27/02 - 2002;27/02 - 2002;;;12300;Dyrkning af citrusfrugter
+20006048;1023648012;False;Kongsdal Multisite A/S;Øvej 26;4340;Tølløse;True;59170011;kontor@kongsdal.dk;30/04 - 2018;;;;14610;Avl af smågrise
+20006048;1023638394;False;Kongsdal Multisite A/S;Tømmerupvej 40;4440;Mørkøv;True;59170011;kontor@kongsdal.dk;30/04 - 2018;;;;14610;Avl af smågrise
+20006048;1023638408;False;Kongsdal Multisite A/S;Mørkøvvej 7B;4340;Tølløse;True;59170011;kontor@kongsdal.dk;30/04 - 2018;;;;14610;Avl af smågrise
+20006048;1004097552;True;KONGSDAL MULTISITE A/S;Tømmerupvej 48B;4440;Mørkøv;True;59170011;kontor@kongsdal.dk;17/04 - 1997;;5-9;;14610;Avl af smågrise
+33782632;1016986840;True;INVESTERINGSSELSKABET AF 15. JULI 2011 ApS;Gråhedevej 4;6880;Tarm;False;;;07/07 - 2011;;5-9;Jacob Øe Madsen;14610;Avl af smågrise
+36076992;1019659824;True;NØRKJÆR LANDBRUG ApS;Rettrup Kærvej 21;7800;Skive;False;97534080;info@noerkjaer-landbrug.dk;01/09 - 2014;;10-19;Jan Have;14610;Avl af smågrise
+26833876;1009393443;True;SØVANG SVINEPRODUKTION A/S;Søbyvej 40;7840;Højslev;False;;;01/10 - 2002;;20-49;;14610;Avl af smågrise
+41331577;1025789055;True;Grydholt Gris ApS;Grydholtvej 9;7500;Holstebro;True;40947876;Gris@grydholt.com;30/04 - 2020;;2-4;;14610;Avl af smågrise
+38139290;1021876379;True;Moutrup A/S;Blidstrupvej 3;7990;Øster Assels;False;;;25/10 - 2016;;10-19;Christoffer Østlund Hensberg;14610;Avl af smågrise
+28864353;1011522579;False;RUBENLUND AGRO A/S;Korsvej 3;5953;Tranekær;False;;;01/07 - 2005;01/07 - 2005;;;13000;Planteformering
+28864353;1000249965;True;RUBENLUND AGRO A/S;Korsvej 3;5953;Tranekær;False;62591285;kontor@rubenlundagro.dk;03/07 - 1967;;20-49;;14610;Avl af smågrise
+36956364;1020557008;True;Højsgaard Økologi ApS;Karupvej 15;7540;Haderup;False;;;01/07 - 2015;;2-4;;14610;Avl af smågrise
+37307262;1020986286;True;Grove Højgaard ApS;Posthusvej 24;7860;Spøttrup;False;;tina-grove@hotmail.com;16/12 - 2015;18/06 - 2020;2-4;Tina Grove Stampe;14610;Avl af smågrise
+37307262;1022886041;False;Grove Højgaard aps;Sønder Andrup 15;7860;Spøttrup;False;22819073;tina-grove@otmail.com;11/09 - 2017;18/06 - 2020;;tina grove;14610;Avl af smågrise
+28097166;1010732243;True;"JE&amp;P A/S";Tofthøjvej 6;7300;Jelling;False;;;24/08 - 2004;;2-4;Per Rasmussen;14610;Avl af smågrise
+14277587;1000713065;True;BAKKEGAARD SVINEPRODUKTION ApS;Agervej 73;4220;Korsør;False;;;01/01 - 1990;;5-9;;14610;Avl af smågrise
+26817935;1009373566;True;EDELSLUND A/S;Lindå Møllevej 14;8541;Skødstrup;False;86999411;;08/10 - 2002;;5-9;Erik M. Bredholt;14610;Avl af smågrise
+36686952;1020247084;True;Eastpig ApS;Bjørumsletvej 27;9670;Løgstør;False;;lk@kornum-farm.dk;19/03 - 2015;;0;;14610;Avl af smågrise
+34072515;1017539961;False;Hougaard;Brøndum Kirkevej 22A;7860;Spøttrup;True;20584281;ps@gronhojproduktion.dk;13/03 - 2012;;5-9;;14610;Avl af smågrise
+34072515;1017307408;True;GOUL 2011 ApS;Dalgårdvej 11;7860;Spøttrup;True;40182930;eg@gronhojproduktion.dk;30/11 - 2011;;5-9;;14610;Avl af smågrise
+40639713;1024848503;True;Hedegaard Svineproduktion 2019 P/S;Vesterlundvej 91C;8600;Silkeborg;True;;;01/07 - 2019;;1;;14610;Avl af smågrise
+33859171;1017006033;True;TOFTHOLM ApS;Melholtvej 68;9370;Hals;False;;;18/07 - 2011;;0;;14610;Avl af smågrise
+15847808;1000988373;True;STENBOGÅRD APS;Volderslevvej 147;5260;Odense S;False;;;02/01 - 1992;;10-19;;14610;Avl af smågrise
+39488485;1024456559;False;Frederiksdal;Frederiksdalvej 37;8620;Kjellerup;True;51411605;adm@brandstrupagro.dk;01/09 - 2018;;2-4;BrandstrupAgro ApS;14610;Avl af smågrise
+39488485;1024456451;False;Klimastald;Brandstrup Søvej 9;8840;Rødkærsbro;True;51411605;adm@brandstrupagro.dk;01/09 - 2018;;1;BrandstrupAgro ApS;14610;Avl af smågrise
+39488485;1024456486;False;Klima Katholt;Husbondvej 9;8850;Bjerringbro;True;51411605;adm@brandstrupagro.dk;01/09 - 2018;;;BrandstrupAgro ApS;14610;Avl af smågrise
+39488485;1024456621;False;Annex;Brandstrup Søvej 14;8840;Rødkærsbro;True;51411605;adm@brandstrupagro.dk;01/09 - 2018;;;BrandstrupAgro ApS;14610;Avl af smågrise
+39488485;1024456583;False;Gilbakke;Gilbakkevej 1;8620;Kjellerup;True;51411605;adm@brandstrupagro.dk;01/09 - 2018;;;BrandstrupAgro ApS;14610;Avl af smågrise
+39488485;1023524097;True;Brandstrup Agro ApS;Sønder Ulstrupvej 23;9500;Hobro;False;;;12/04 - 2018;;10-19;;14610;Avl af smågrise
+33374380;1016529326;True;AAGÅRD ApS;Hødeshøjvej 41;9690;Fjerritslev;False;98213637;;15/12 - 2010;;20-49;Niels Michael Møller;14610;Avl af smågrise
+29629862;1012379826;True;LANGBALLEGAARD HOLDING ApS;Overballe 15;6310;Broager;False;;;23/06 - 2006;01/09 - 2020;1;;14610;Avl af smågrise
+38820044;1022706256;True;AM 100 ApS;Møllevej 3;6670;Holsted;True;;kontor@avlscentermollevang.dk;20/07 - 2017;;;;14610;Avl af smågrise
+27620388;1010424646;True;SKALFARMS ApS;Storhøjvej 34;9530;Støvring;False;60499002;skalfarms@skalfarms.dk;29/02 - 2004;;10-19;Torben Nielsen;14610;Avl af smågrise
+40001107;1024106205;True;Skårupgård Drift ApS;Åsvej 6;7700;Thisted;False;;;05/11 - 2018;;5-9;Fritz Andreas Foged Nielsen;14610;Avl af smågrise
+16804347;1001163111;True;'ØRSTEDGAARD SVINEPRODUKTION' K/S;Åbakkevej 2;4130;Viby Sjælland;False;22222328;orstedgard@dpl-invest.dk;15/01 - 1993;;10-19;;14610;Avl af smågrise
+16221945;1001058779;True;AVLSCENTRET HOLMEGÅRD A/S;Faldsledvej 37;5600;Faaborg;False;62681035;;01/01 - 1992;;5-9;;14610;Avl af smågrise
+38816381;1022702005;True;Landbrug Invest 2017 ApS;Ellegårdvej 19;6400;Sønderborg;True;;;26/07 - 2017;;;Brødr. Ewers A/S;14610;Avl af smågrise
+20145307;1006146467;False;BÆKGÅRDEN ApS; 11;9999;Ukendt;False;;;23/06 - 1997;30/06 - 1997;;;980000;Uoplyst
+20145307;1004154539;True;BÆKGÅRDEN APS;Brandholmvej 11;5672;Broby;False;;;01/01 - 1997;;2-4;;14610;Avl af smågrise
+41340304;1025799948;True;Brandmosegård Svineavl A/S;Vivsøvej 4;7800;Skive;True;;poj@post12.tele.dk;28/04 - 2020;;-;Poul Erik Jeppesen;14610;Avl af smågrise
+39676907;1023741985;True;"Volsgaard Avl &amp; Opformering ApS";Damstrupvej 2;6973;Ørnhøj;True;;;26/06 - 2018;;20-49;;14610;Avl af smågrise
+32266193;1015334890;True;DE TRE GÅRDE ApS;Bubbelvej 4;7760;Hurup Thy;False;23300313;detregaarde@altiboxmail.dk;09/06 - 2009;;10-19;;14610;Avl af smågrise
+39306476;1023316168;True;Mols-Mosegaard A/S;Molsvej 88;8400;Ebeltoft;False;86365635;jenserikhs@gmail.com;02/02 - 2018;;5-9;Jens-Erik Holst Sørensen;14610;Avl af smågrise
+32834329;1015953523;True;KJELDGÅRD SVINEPRODUKTION A/S;Kjeldgårdsvej 9;7870;Roslev;False;97596177;henryj@nv-online.dk;01/01 - 2010;;5-9;;14610;Avl af smågrise
+37832847;1021592532;False;Avlscenter Eskegaard A/S;Møllegyde 9;6100;Haderslev;True;;;01/07 - 2016;;10-19;;14610;Avl af smågrise
+37832847;1021592583;False;Avlscenter Eskegaard A/S;Fjelstrup Landevej 9;6100;Haderslev;True;;;01/07 - 2016;;2-4;;14610;Avl af smågrise
+37832847;1021548053;True;Avlscenter Eskegaard A/S;Møllegyde 41;6100;Haderslev;True;;;29/06 - 2016;;5-9;;14610;Avl af smågrise
+13739048;1000616717;True;RAUFF GROUP A/S;Vinkelvej 141;8800;Viborg;False;97548500;;01/07 - 1989;;5-9;;14610;Avl af smågrise
+29689121;1012439497;True;ENGELBRETH BORDING ApS;Guldforhovedvej 26;7441;Bording;False;86861362;ravnholtgaard@fiberpost.dk;01/07 - 2006;;5-9;;14610;Avl af smågrise
+26545102;1009034834;True;OVERISEN MULTI-SITE ApS;Over Isen Vej 10;7430;Ikast;False;;;01/04 - 2002;;10-19;;14610;Avl af smågrise
+75131712;1002450472;True;AVLSCENTRET GULDHOLMGÅRD APS KIBÆK;Barslundvej 7;6933;Kibæk;False;;;01/01 - 1984;;0;;14610;Avl af smågrise
+29807221;1012890237;True;A/S SIMBLEGÅRD;Simblegårdsvej 6;3782;Klemensker;False;56966295;lennart@simblegaard.dk;20/12 - 2006;;5-9;;14610;Avl af smågrise
+38294776;1022049409;True;Frammerslevgård A/S;Norvej 2;7860;Spøttrup;False;;;23/12 - 2016;;5-9;;14610;Avl af smågrise
+40468978;1024643936;True;Lykkeslund Højgaard ApS;Holemarken 24;5450;Otterup;False;;lars@lykkeslund.dk;24/04 - 2019;;2-4;;14610;Avl af smågrise
+20214031;1006153735;False;KRISTIAN NYRUP A/S; 41;9999;Ukendt;False;;;27/06 - 1997;01/01 - 1998;;;980000;Uoplyst
+20214031;1001900228;True;KRISTIAN NYRUP A/S;Bjørnstrupvej 41;9600;Aars;False;98661125;;03/07 - 1967;;10-19;;14610;Avl af smågrise
+71084728;1002334756;True;RESDALGÅRD SVINEPRODUKTION ApS;Viborgvej 165;8600;Silkeborg;False;86855365;margit_holmskov@hotmail.com;01/02 - 1982;;0;;14610;Avl af smågrise
+29415153;1022434450;False;Kokkenborg Anneks I;Hovedvejen 77;5771;Stenstrup;True;23718115;dorte@kokkenborg.com;01/01 - 2017;01/04 - 2019;;;14610;Avl af smågrise
+29415153;1022434507;False;Pilemosegård;Stenoddenvej 23;5700;Svendborg;True;23718115;dorte@kokkenborg.com;01/01 - 2017;31/05 - 2019;;;14610;Avl af smågrise
+29415153;1022434728;False;Kildegård;Stenoddenvej 6;5700;Svendborg;True;23718115;dorte@kokkenborg.com;01/01 - 2017;31/05 - 2019;;;14610;Avl af smågrise
+29415153;1022434787;False;Landlyst Snarup;Snarupvejen 18;5750;Ringe;True;23718115;dorte@kokkenborg.com;01/01 - 2017;28/02 - 2019;;;14610;Avl af smågrise
+29415153;1019248662;False;Kokkenborg Opformering;Pavegyden 1A;5771;Stenstrup;False;23718115;dorte@slaebaekgaard.dk;25/03 - 2014;;;;14610;Avl af smågrise
+29415153;1012120709;True;KOKKENBORG ApS;Assensvej 9A;5771;Stenstrup;False;62263460;;10/03 - 2006;;;;14610;Avl af smågrise
+29415153;1022453714;False;Sundshøj Møllegård;Hovedvejen 72;5771;Stenstrup;True;23718115;dorte@kokkenborg.com;01/01 - 2017;;;;14620;Produktion af slagtesvin
+36024003;1019509709;True;DEMSTRUP SVINEPRODUKTION ApS;Demstrupvej 42A;8970;Havndal;False;;;27/06 - 2014;;;;14610;Avl af smågrise
+32884083;1016009470;True;NY SOLVANG ApS;Gyvelvej 32;6780;Skærbæk;False;;;27/04 - 2010;;10-19;;14610;Avl af smågrise
+26089379;1008500084;True;FUGLSANG A/S;Thyrasmindevej 5;8700;Horsens;False;;;20/06 - 2001;;5-9;;14610;Avl af smågrise
+26089379;1015349219;False;FUGLSANG A/S;Gludvej 123;7130;Juelsminde;False;;;25/06 - 2009;;;;14610;Avl af smågrise
+38903896;1022802514;True;Produktionsselskabet Signe Madsen ApS;Hermodsvej 14;7480;Vildbjerg;False;;;31/08 - 2017;;;;14610;Avl af smågrise
+37948098;1021681810;True;AP Gria ApS;Strandvejen 306;9340;Asaa;False;;;22/08 - 2016;;5-9;;14610;Avl af smågrise
+40055622;1024171422;True;Avlscenter Smakkerup A/S;Ærtebjergvej 2;4400;Kalundborg;True;22638211;;29/11 - 2018;;2-4;;14610;Avl af smågrise
+20365404;1006171937;False;HAGESHOLM MULTISITE K/S; 17;9999;Ukendt;False;;;03/09 - 1997;30/09 - 1997;;;980000;Uoplyst
+20365404;1016977639;False;Vålse Multisite;Østervej 98;4840;Nørre Alslev;False;86812399;dpl@dpl-invest.dk;05/07 - 2011;01/07 - 2017;5-9;;14610;Avl af smågrise
+20365404;1016977469;False;Eskelund Multisite;Nybyvej 21;4863;Eskilstrup;False;86812399;dpl@dpl-invest.dk;05/07 - 2011;;2-4;;14610;Avl af smågrise
+20365404;1016977728;False;Sydhavs Grisen;Reersnæs Kirkevej 346;4941;Bandholm;False;86812399;dpl@dpl-invest.dk;05/07 - 2011;;5-9;;14610;Avl af smågrise
+20365404;1004289609;True;HAGESHOLM MULTISITE K/S;Hagesholmvej 14;4520;Svinninge;False;86812399;hg@dpl-invest.dk;01/10 - 1997;;5-9;;14610;Avl af smågrise
+16742546;1001153154;True;BORUM ØSTERGÅRD SVINEPRODUKT A/S;Rugerivej 26;9760;Vrå;False;86948844;;16/11 - 1992;;0;;14610;Avl af smågrise
+29524963;1012234712;True;ONSILDGAARD PRODUKTION ApS;Rejsby 9;6261;Bredebro;False;74716280;;18/04 - 2006;;0;;14610;Avl af smågrise
+29524963;1016065419;False;Onsildgaard Produktion ApS;Væggedalen 7;9500;Hobro;False;20861757;peteronsildgaard@hotmail.com;25/05 - 2010;;10-19;;11100;Dyrkning af korn (undtagen ris), bælgfrugter og olieholdige frø
+41155035;1025547698;True;Kibsdal P/S;Mustedvej 61;9740;Jerslev J;True;;bo@kibsdal.dk;11/02 - 2020;;5-9;;14610;Avl af smågrise
+40789685;1025040569;True;Lynggård Svineproduktion ApS;Over Lyngen 4;4720;Præstø;False;;;12/09 - 2019;;10-19;;14610;Avl af smågrise
+33636547;1016812303;True;BIRKETVEDGAARD ApS;Birketvedvejen 6;5290;Marslev;False;51232509;lasse@birketvedgaard.dk;20/04 - 2011;;5-9;;14610;Avl af smågrise
+26154375;1009617902;True;KRINGS TRADING A/S;Frifeltvej 13;7000;Fredericia;False;;;19/07 - 2001;;5-9;;14610;Avl af smågrise
+40374175;1024539098;True;Vester Bordingvej AGRO ApS;Vesterballevej 5;7000;Fredericia;True;;info@agrofond.dk;25/03 - 2019;;10-19;Videnpark Trekantområdet;14610;Avl af smågrise
+26533570;1009021619;True;TOLSTRUP FARMING ApS;Skindbjergvej 11;9520;Skørping;False;;;01/01 - 2002;;5-9;;14610;Avl af smågrise
+21500542;1006289825;False;LANDBRUGSSELSKABET MOSEGÅRD. HELNÆS ApS; 20;9999;Ukendt;False;;;01/01 - 1999;08/08 - 1999;;;980000;Uoplyst
+21500542;1005274060;True;TH Agro ApS;Ravnekærvej 20;5631;Ebberup;False;;;09/08 - 1999;;10-19;c/o Torben Thomsen;14610;Avl af smågrise
+31601622;1014571619;True;KLOSTERSKOVGAARD ApS;Vivildvej 1;8370;Hadsten;False;86981926;;08/07 - 2008;;5-9;;14610;Avl af smågrise
+40699562;1024925508;True;Grydholt Opformering ApS;Grydholtvej 9;7500;Holstebro;True;;;08/08 - 2019;;5-9;;14610;Avl af smågrise
+38766058;1022611239;True;Avlscenter Møllevang A/S;Møllevej 3;6670;Holsted;True;;;30/06 - 2017;;20-49;;14610;Avl af smågrise
+41017821;1025345351;True;Hohøjgaard ApS;Nr Onsildvej 4;9500;Hobro;False;;;17/12 - 2019;;5-9;;14610;Avl af smågrise
+21076139;1004786308;True;CIVAGÅRD A/S;Civagårdsvej 1;9330;Dronninglund;False;98841084;;01/07 - 1998;;20-49;;14610;Avl af smågrise
+21076139;1026051238;False;Hvidborg;Tislumvej 556;9870;Sindal;True;40302092;;01/07 - 2020;;;Civagaard A/S;14610;Avl af smågrise
+31162572;1013896387;True;KROGSGAARD SOHOLD ApS;Søndervig Landevej 9;6950;Ringkøbing;True;97325511;;02/01 - 2008;;20-49;;14610;Avl af smågrise
+25805658;1008159595;True;INVESTERINGSSELSKABET AF 22.12. 2000 ApS;Flædekærvej 12;5631;Ebberup;False;;;22/12 - 2000;;5-9;;14610;Avl af smågrise
+40934545;1025235157;True;Høgelund Svineproduktion ApS;Vildbjergvej 36;7400;Herning;False;;;14/11 - 2019;;2-4;;14610;Avl af smågrise
+19463370;1003828654;True;Skovdal Svineproduktion ApS;Nykøbingvej 73;4850;Stubbekøbing;False;54490999;jk@skovdal-agro.dk;01/07 - 1996;;2-4;;14610;Avl af smågrise
+26091063;1008574991;False;AVLSCENTER RØNSHAUGE A/S;Frifeltvej 13;7000;Fredericia;False;;;20/06 - 2001;20/06 - 2001;;;12300;Dyrkning af citrusfrugter
+26091063;1008622929;False;AVLSCENTER RØNSHAUGE ApS;Frifeltvej 13;7000;Fredericia;False;;;19/07 - 2001;19/07 - 2001;;;12300;Dyrkning af citrusfrugter
+26091063;1008501897;True;AVLSCENTER RØNSHAUGE A/S;Frifeltvej 13;7000;Fredericia;False;;;20/06 - 2001;;20-49;;14610;Avl af smågrise
+33755961;1016912758;True;LANGEROD ApS;Skovsbovej 55;5690;Tommerup;False;64752529;;08/06 - 2011;;5-9;Henrik Solgaard;14610;Avl af smågrise
+10074061;1008451865;True;CHRISTIANSMINDE MULTISITE K/S;Øster Uttrup Vej 25-27;9220;Aalborg Øst;False;98155777;;01/04 - 2001;;10-19;;14610;Avl af smågrise
+36064420;1022456381;False;S2KM Svineproduktion, Stadilvej;Stadilvej 24;6980;Tim;True;;;10/05 - 2017;;0;;14610;Avl af smågrise
+36064420;1022456438;False;S2KM Svineproduktion, Nedre Agersigvej;Nedre Agersigvej 5;6933;Kibæk;True;;;10/05 - 2017;;;;14610;Avl af smågrise
+36064420;1019617935;True;S2KM ApS;Svallerup Landevej 18;4400;Kalundborg;False;;;13/08 - 2014;;;;14610;Avl af smågrise
+12116047;1000333739;True;JESPER LADEFOGED;Gammel Randersvej 52;8990;Fårup;False;86452079;;01/07 - 1987;;0;;14610;Avl af smågrise
+13155445;1000510541;True;Boruphedegård v/Henrik Rubæk;Smidstrupvej 186;9760;Vrå;True;40451158;info@boruphedegaard.dk;01/08 - 1986;;0;;14610;Avl af smågrise
+85678515;1002726960;True;NIELS-OLE SØNDERGAARD;Fjordlundsvej 3;7990;Øster Assels;False;97764355;birkelund@mail-telia.dk;01/08 - 1977;;0;;14610;Avl af smågrise
+35792368;1019255219;True;Bundgaard-Agro I/S;Hylholtvej 56;9340;Asaa;True;98851186;mail@bundgaardopformering.dk;01/04 - 2014;;5-9;;14610;Avl af smågrise
+25835565;1008194722;True;Gårdejer Allan Andreasen;Lindbjergvej 80;8930;Randers NØ;False;86442428;;31/12 - 2000;;2-4;;14610;Avl af smågrise
+14138080;1001620766;False;JAN LUND NIELSEN;Østerbyvej 5;7500;Holstebro;False;97487448;;01/07 - 1978;31/12 - 2005;0;;12300;Dyrkning af citrusfrugter
+14138080;1000686951;True;JAN LUND NIELSEN;Østerbyvej 9;7600;Struer;False;97487454;;01/04 - 1990;;1;;14610;Avl af smågrise
+37300209;1020988084;True;Tom Kirkegaard Hansen;Skalstrupvej 5;7570;Vemb;True;97481594;tom.kirkegaard@live.dk;01/01 - 2016;;1;;14610;Avl af smågrise
+24989895;1007190065;True;Oddershede I/S V/Lars Og Esben Oddershede;Søgård Mark 6;7700;Thisted;False;97981282;;01/07 - 1999;;5-9;;14610;Avl af smågrise
+78183853;1001892340;False;GÅRDEJER CARL CHRISTIAN BÆK;Øksendalvej 15;8860;Ulstrup;False;86463617;;03/07 - 1967;;0;;15000;Blandet drift
+78183853;1009251134;False;GÅRDEJER CARL CHRISTIAN BÆK;Røngevej 3;8860;Ulstrup;False;86464454;;01/08 - 2002;;0;;352100;Fremstilling af gas
+78183853;1002542570;True;GÅRDEJER CARL CHRISTIAN BÆK;Røngevej 3;8860;Ulstrup;False;86464454;;01/10 - 1987;;5-9;;14610;Avl af smågrise
+29304823;1003525112;True;Havskov v/Torben Hauskov;Højbjergvej 28;7620;Lemvig;False;61540101;;01/07 - 1995;;20-49;;14610;Avl af smågrise
+40261842;1024414171;True;Esben Dollerup;Fredbjergvej 85;9640;Farsø;True;98631209;esbendollerup@hotmail.com;01/01 - 2019;;10-19;;14610;Avl af smågrise
+19145077;1003697540;True;LANDMAND OLE PEDERSEN;Høndrupgaardsvej 4;9500;Hobro;False;;;15/03 - 1996;;2-4;;14610;Avl af smågrise
+15138939;1000867758;True;JØRGEN BRAM;Grarupvej 25;6100;Haderslev;False;74571271;;01/06 - 1991;;2-4;;14610;Avl af smågrise
+19706990;1003942925;False;GÅRDEJER GORM JESSEN;Rebildvej 28;9520;Skørping;False;;;31/12 - 1996;15/11 - 1999;;;13000;Planteformering
+19706990;1010572378;True;Landmand Gorm Jessen;Erstedskovvej 4-5;9520;Skørping;False;;;17/05 - 2004;;5-9;;14610;Avl af smågrise
+19465845;1003829479;True;LANDMAND JENS RIISHEDE JENSEN;Stavadvej 63;9700;Brønderslev;False;98887553;;01/09 - 1996;;2-4;Thranegård;14610;Avl af smågrise
+19224244;1003730157;True;LARS LANGSKOV NIELSEN;Holemarken 24;5450;Otterup;False;64851733;;15/04 - 1996;;5-9;;14610;Avl af smågrise
+12232705;1000353726;True;GÅRDEJER ESBEN CHRISTIANSEN;Knudstrupvej 26;8870;Langå;False;86468237;;31/12 - 1987;;5-9;;14610;Avl af smågrise
+12027435;1000318093;True;"Dortheasminde Avl &amp; Opformering";Gelballevej 56;6640;Lunderskov;False;40135188;skp@gelballe.dk;01/12 - 1986;;10-19;Søren Kjær Poulsen;14610;Avl af smågrise
+12027435;1016631848;False;Dortheasminde Opformering;Ulveryggen 7;6640;Lunderskov;False;;;07/02 - 2011;;0;Gelballevej 56;14610;Avl af smågrise
+12027435;1016631821;False;Dortheasminde Opformering;Egeskovvej 25;6640;Lunderskov;False;;;07/02 - 2011;;0;Gelballevej 56;14610;Avl af smågrise
+15416785;1009000921;False;MICHAEL MULVAD MADSEN;Vihøjvej 2;7870;Roslev;False;;;01/03 - 2002;01/03 - 2002;;;13000;Planteformering
+15416785;1000919925;True;Vihøjgaard;Vihøjvej 2;7870;Roslev;False;97576036;;01/10 - 1991;;2-4;;14610;Avl af smågrise
+57409517;1002061905;True;SKELGÅRDEN V/H RISAGER;Kjulvej 1;9850;Hirtshals;False;98949497;;02/06 - 1976;;2-4;;14610;Avl af smågrise
+50719618;1006605238;False;PROPR PER KIRKETERP NIELSEN;Daneborg 20;3983;Daneborg;False;;;01/11 - 1974;31/10 - 1981;;;980000;Uoplyst
+50719618;1026166809;False;Moien svinebrug;Birketvej 106;9870;Sindal;False;25215225;kontor@kagro.dk;01/08 - 2020;;;K/AGRO;14610;Avl af smågrise
+50719618;1003095714;True;Landmand Per Kirketerp;Hørmestedvej 130;9870;Sindal;False;98935372;kontor@kagro.dk;02/03 - 2000;;0;Høgholt;14610;Avl af smågrise
+50719618;1003095726;False;PROPR.PER KIRKETERP;Ugiltvej 20;9870;Sindal;True;98935372;kontor@kirketerp-svineavl.dk;01/01 - 1986;;5-9;;14610;Avl af smågrise
+50719618;1020436618;False;Prop. Per Kirketerp;Mølskovvej 11;9870;Sindal;False;20277372;per_kirk@post8.tele.dk;01/01 - 2015;;10-19;;14610;Avl af smågrise
+25617150;1000858165;True;Risbjerg Landbrug v/Hans Erik Jørgensen;Møllergyden 3;5683;Haarby;False;64731133;hans.erik@risbjerg.nu;01/06 - 2000;;5-9;;14610;Avl af smågrise
+25927591;1001222722;True;Palle Tærsker;Vallebovej 1;4735;Mern;False;55930660;;01/04 - 2001;;1;;14610;Avl af smågrise
+31504589;1014534314;True;Esben Skøtt;Brabækvej 3;6070;Christiansfeld;False;74561155;;01/07 - 2008;;5-9;;14610;Avl af smågrise
+17164880;1001235258;True;LANDMAND HENRIK HALD ANDERSEN;Gydejevej 10;9750;Østervrå;False;98956031;;20/09 - 1993;;2-4;;14610;Avl af smågrise
+27845517;1001620511;True;MADS CHR GALSGÅRD;Aggervej 14;7770;Vestervig;False;97941509;;16/06 - 1969;;0;;14610;Avl af smågrise
+39174898;1023158724;True;Kjærsminde;Lyngvej 5;7950;Erslev;False;;lyngvej5@hotmail.com;01/01 - 2018;;5-9;;14610;Avl af smågrise
+26096014;1000666514;True;Henrik Ulsted Sørensen;Dagstrupvej 30;8544;Mørke;False;40277662;skippercharlotte@gmail.com;01/01 - 2001;;5-9;;14610;Avl af smågrise
+25018044;1007220657;True;Egensøgård/ Jakob Krogh Andersen;Egensøvej 285;5390;Martofte;False;65341183;;01/01 - 2000;;5-9;;14610;Avl af smågrise
+12301391;1000365565;True;OVE HANSEN;Gl. Refsvej 3;7760;Hurup Thy;False;97953008;;01/02 - 1988;;2-4;;14610;Avl af smågrise
+28259220;1011096154;True;Anders Lundsgaard;Søllingevej 27;5750;Ringe;False;;;01/01 - 2005;;5-9;;14610;Avl af smågrise
+21059234;1000366895;False;THOMAS BENNEDSGAARD;Elsøvej 115;7900;Nykøbing M;False;;;14/04 - 1967;30/06 - 2002;;;702040;Udlejning af erhvervsejendomme
+21059234;1006245006;False;THOMAS BENNEDSGAARD; 115;9999;Ukendt;False;;;01/08 - 1998;01/08 - 1998;;;980000;Uoplyst
+21059234;1004610683;True;THOMAS BENNEDSGAARD;Mejerivej 10;7900;Nykøbing M;False;97722880;;01/07 - 1998;;5-9;;14610;Avl af smågrise
+31844347;1014994560;True;Søren A. Jensen;Skeldevej 8;6310;Broager;False;74441998;;01/01 - 2009;;2-4;;14610;Avl af smågrise
+51109015;1001961956;True;HANS JØRGEN STAUGÅRD;Tornhøjvej 26;6200;Aabenraa;False;74685665;;15/07 - 1974;;10-19;;14610;Avl af smågrise
+16222283;1001058883;True;TORBEN LORENZEN;Dyssevej 2;4673;Rødvig Stevns;False;56508060;;01/03 - 1992;;5-9;;14610;Avl af smågrise
+38010654;1001761872;True;LANDMAND LARS HENRIK JUEL HANSEN;Bremerskovvej 132;5550;Langeskov;False;65391033;;01/09 - 1984;;5-9;;14610;Avl af smågrise
+20742976;1006210383;False;GUNNAR KLOPPENBORG-SKRUMSAGER; 24;9999;Ukendt;False;;;01/04 - 1998;09/08 - 1998;;;980000;Uoplyst
+20742976;1001598633;True;GUNNAR KLOPPENBORG-SKRUMSAGER;Terpvej 24;6630;Rødding;False;74846911;;03/07 - 1967;;2-4;;14610;Avl af smågrise
+75413718;1002459547;True;I/S Horne Møllegård;Kirkevej 9;5600;Faaborg;False;62601906;;01/07 - 1984;;5-9;;14610;Avl af smågrise
+75719914;1002468296;True;GDR GERT LOPDRUP PEDERSEN;Erslevvej 60;8370;Hadsten;False;86982158;;01/11 - 1983;;5-9;;14610;Avl af smågrise
+17851179;1001373201;True;SIMONSGÅRD V/JAN JENSEN;Simonsgårdsvej 10;3790;Hasle;False;;simonsgaard@mail.dk;01/05 - 1994;;2-4;;14610;Avl af smågrise
+25802705;1008156626;True;Tine og Rene Baade Andersen;Allestrupvej 2;9500;Hobro;False;;;18/12 - 2000;;0;;14610;Avl af smågrise
+33091109;1016296674;True;Horsbyggård Friland v/Jørn Nissen;Horsbyggårdevej 4;6230;Rødekro;False;23608304;jorn_nissen85@hotmail.com;01/09 - 2010;;0;;14610;Avl af smågrise
+18646188;1009482020;False;LARS HØJHOLT NIELSEN;Risvang 3;8530;Hjortshøj;False;;;01/07 - 1994;31/05 - 1995;;;980000;Uoplyst
+18646188;1001400804;True;LARS HØJHOLT NIELSEN;Risvang 3;8530;Hjortshøj;False;86998899;risvang@mail.dk;01/07 - 1994;;2-4;;14610;Avl af smågrise
+20118970;1004141225;True;Holbækgård v/Christian Mikkelsen;Gammel Ørderupvej 1;6520;Toftlund;False;74830503;;01/08 - 1997;;5-9;;14610;Avl af smågrise
+37359688;1021047356;True;Hanghøj Svineproduktion/v Heine Kjeldgaard;Østermøllevej 34;7900;Nykøbing M;False;27517817;Heinekjeldgaard@hotmail.com;04/01 - 2016;;2-4;;14610;Avl af smågrise
+28405170;1011177669;False;Dorit Jakobsen;Trehøjevej 18;7480;Vildbjerg;False;;;01/03 - 2005;01/03 - 2005;;;12300;Dyrkning af citrusfrugter
+28405170;1000375455;True;Dorit Jakobsen;Trehøjevej 18;7480;Vildbjerg;False;;;10/08 - 1988;;5-9;;14610;Avl af smågrise
+27021581;1009709491;True;Nr. Hestbæk/Bernhard F Sørensen;Hestbækvej 26;7600;Struer;False;97487098;;01/01 - 2002;;2-4;;14610;Avl af smågrise
+19168476;1003707079;True;JAN NELDEBERG NIELSEN;Fyllestedvej 36;5464;Brenderup Fyn;False;;;01/04 - 1996;;2-4;;14610;Avl af smågrise
+40976094;1025289575;True;Ahle Hedegaard;Hedevej 5;6920;Videbæk;True;20415878;123mkristensen@gmail.com;01/01 - 2020;;5-9;;14610;Avl af smågrise

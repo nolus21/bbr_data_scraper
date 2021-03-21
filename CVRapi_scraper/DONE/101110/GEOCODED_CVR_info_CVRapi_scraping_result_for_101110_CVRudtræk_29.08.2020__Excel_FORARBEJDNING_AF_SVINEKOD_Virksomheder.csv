@@ -1,0 +1,64 @@
+﻿CVR;nameCvr;addressCvr;zipcodeCvr;cityCvr;citynameCvr;protectedCvr;phoneCvr;emailCvr;startdateCvr;enddateCvr;employeesCvr;companycodeCvr;companydescCvr;creditstartdateCvr;creditbankruptCvr;creditstatusCvr;ownersNameCvr;Lat;Lon
+26686997;SEVEL SLAGTERI A/S;Søgårdvej 28;7830;Vinderup;Søgård;FALSE;97448308;sevelslagteri@sevelslagteri.dk;01/01/2002;;20-49;60;Aktieselskab;;FALSE;;;56,459868;8,8789476
+34619069;MOESGAARD MEAT 2012 A/S;Naurvej 3A;7500;Holstebro;;FALSE;97432326;moesgaard@moesgaard-meat.dk;18/07/2012;;20-49;60;Aktieselskab;;FALSE;;;56,375414;8,5190984
+13222495;DANEPORK A/S;Tørskindvej 19;7183;Randbøl;;TRUE;75883866;info@danepork.dk;08/05/1989;;100-199;60;Aktieselskab;;FALSE;;;55,6949233;9,3142651
+13201846;GLUMSØ SLAGTEHUS ApS;Søvej 5;4171;Glumsø;;FALSE;57646003;;28/06/1989;;20-49;80;Anpartsselskab;;FALSE;;;55,350802;11,6903369
+38904108;Hvidebæk Meat ApS;Industrivej 17D;4490;Jerslev Sjælland;Ubby;FALSE;;;01/09/2017;;;80;Anpartsselskab;;FALSE;;;55,612118;11,213025
+36686278;Hvidebæk Slagteri og Pølsefabrik ApS;Industrivej 17D;4490;Jerslev Sjælland;Ubby;FALSE;;;05/03/2015;;50-99;80;Anpartsselskab;;FALSE;;;55,612118;11,213025
+21613584;Grillslagteren ApS;Kirkebyvej 6;7700;Thisted;Nors;TRUE;30103829;info@grillslagteren.dk;19/04/1999;;0;80;Anpartsselskab;;FALSE;;[{'name': 'Lars Drechsler Jakobsen'}, {'name': 'Allan Andersen'}];57,0223132;8,6770047
+28717121;SLAGTER ENGDAHL ApS;Industriparken 10;4960;Holeby;Holeby;FALSE;54606065;;26/05/2005;;5-9;80;Anpartsselskab;;FALSE;;[{'name': 'Jesper Engdahl'}, {'name': 'Morten Engdahl'}];54,726057;11,459089
+30920406;GRAMBOGÅRD A/S;Ellehaven 55;5690;Tommerup;;FALSE;64761577;;10/09/2007;;10-19;60;Aktieselskab;;FALSE;;;55,31236;10,215956
+37033960;HP Production ApS;Naurvej 3A;7500;Holstebro;;FALSE;97432326;moesgaard@moesgaard-meat.dk;24/08/2015;;20-49;80;Anpartsselskab;;FALSE;;;56,375414;8,5190984
+27654746;VESTER HÆSINGE SLAGTERFORRETNING ApS;Gl. Stenderupvej 30;5672;Broby;Gl Stenderup;FALSE;62631853;vhslagter@mail.dk;22/03/2004;;10-19;80;Anpartsselskab;;FALSE;;[{'name': 'Stefan Stenberg Jensen'}];55,180121;10,263248
+16523844;INCO SVENDBORG SLAGTEHUS A/S;Porthusvej 75;5700;Svendborg;;FALSE;62213278;;01/10/1992;;20-49;60;Aktieselskab;;FALSE;;[{'name': 'Lis Bente Christiansen'}];55,0736934;10,6093228
+37144789;Hårby Slagteren IVS;Den Grønne Vej 1;8660;Skanderborg;Hårby;TRUE;86523010;hs-slagteri@hotmail.dk;08/10/2015;;20-49;81;Iværksætterselskab;;FALSE;;;56,081172;9,89441
+26121264;DANISH CROWN A/S;Marsvej 43;8960;Randers SØ;;FALSE;89191919;;01/07/2001;;1000-999999;60;Aktieselskab;;FALSE;;;56,430005;10,059676
+26786576;TICAN FRESH MEAT A/S;Strandvejen 6;7700;Thisted;;FALSE;99192300;TICAN@TICAN.DK;18/09/2002;;500-999;60;Aktieselskab;;FALSE;;[{'name': 'Tönnies International Holding GmbH'}];56,9542988;8,6996903
+39547430;Jensen's Slagtehus ApS;Rigtrupvej 44;8370;Hadsten;Voldum;TRUE;86491416;information@jensens-slagtehus.dk;07/05/2018;;;80;Anpartsselskab;28/04/2020;TRUE;;[{'name': 'Morten Enggrob Jensen'}];56,368032;10,1861336
+14641998;HØVE SLAGTERI;Høvevej 65;4550;Asnæs;;TRUE;59316886;;01/11/1990;;0;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Jan Lund Christensen'}];55,8360478;11,4867386
+41280158;Slagter Kristian Sand Olesen;Brandevej 24;7430;Ikast;;TRUE;;ks.olesen@hotmail.com;13/04/2020;;;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Kristian Sand Olesen'}];56,07589;9,145003
+21942677;Jensens Slagtehus Morten Enggrob Jensen;Rigtrupvej 44;8370;Hadsten;Voldum;FALSE;;information@jensens-slagtehus.dk;01/09/1999;;2-4;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Morten Enggrob Jensen'}];56,368032;10,1861336
+28649398;Smedegård v/ John Kristian Jensen;Kytterupvej 11;6990;Ulfborg;;FALSE;;;18/07/2005;;0;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'John Kristian Jensen'}];56,300915;8,332955
+36590696;Sæby Gårdslagteri I/S;Ålborgvej 108;9300;Sæby;;TRUE;60443804;kontakt@saebygaardslagteri.dk;01/05/2015;;0;30;Interessentskab;;FALSE;;[{'name': 'Bjarke Jacobsen'}, {'name': 'Thomas Heden Gadekær'}];57,320001;10,4753138
+40690484;Den tørrede gris;St. Ladegårdsvej 8;4180;Sorø;;TRUE;23262216;Skovgrisen@gmail.com;08/08/2019;;;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Niels Bjerregård Pedersen'}];55,419637;11,6143059
+38119362;Riberholdt Consulting;Hvalfisken 11;7500;Holstebro;;TRUE;30142120;idomlund@gmail.com;19/10/2016;;0;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Kristian Riberholdt'}];56,3221556;8,6091291
+30267699;Ulfborg Slagteri v/Per O Nielsen;Industriarealet 40;6990;Ulfborg;;FALSE;97492200;;01/04/2007;;1;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Per Overby Nielsen'}];56,2612983;8,3191117
+35909737;Ømands I/S;Sønder Vilstrup Bygade 1B;6100;Haderslev;;TRUE;;aungstrup@gmail.com;18/07/2014;;0;30;Interessentskab;;FALSE;;[{'name': 'Allan Ømand Ungstrup'}, {'name': 'Mette Hoeing'}];55,19181;9,516577
+32572154;Hjemmeslagter Martin Jørgensen;Harres 4;6261;Bredebro;;FALSE;73710044;martinhjemmeslagter@sol.dk;01/12/2009;;0;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Martin Jørgensen'}];55,057104;8,779984
+27302165;Grenaa Slagtehus I/S v/Tage Sehested Severinsen og Peder Bertelsen;Tempovej 18;8500;Grenaa;;FALSE;86327032;mail@grenaaslagtehus.dk;01/09/2003;;5-9;30;Interessentskab;;FALSE;;[{'name': 'Tage Sehested Severinsen'}, {'name': 'Peder Bertelsen'}];56,422706;10,902828
+35696032;Concepcion Pimentel Schallert;Auningvej 3;8963;Auning;;TRUE;;concepcionp3@rougsoes.net;01/01/2014;;0;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Concepcion Pimentel Schallert'}];56,449026;10,4061471
+26669170;Selskabet af 01.01.2002 ApS;Industrivej 17D;4490;Jerslev Sjælland;Ubby;FALSE;59596200;berit@hvidebaek-slagteri.dk;01/01/2002;;2-4;80;Anpartsselskab;07/06/2018;TRUE;1;;55,612118;11,213025
+30647653;Råmose Friland;Nyrupvej 2;4200;Slagelse;;TRUE;;raamosefriland@outlook.dk;01/08/2020;;0;15;Personligt ejet Mindre Virksomhed;;FALSE;;[{'name': 'Leslie Helleskov Stie'}];55,41767;11,356928
+28364733;Mobil Hjemmeslagt v/Brian Hald Thrane;Stationsvej 8;6600;Vejen;Andst;FALSE;42390960;;01/12/2008;31/12/2012;;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Brian Hald Thrane'}];55,4701256;9,2383842
+35765417;Håsum Chacuteri;Landevejen 28;7860;Spøttrup;;FALSE;;ulriklajgaard@gmail.com;02/05/2014;31/05/2015;;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Ulrik Lajgaard'}];56,577662;8,848227
+35099417;Sindal Slagtehus;Nejstvej 99;9870;Sindal;;FALSE;;info@sindalslagtehus.dk;01/07/2013;31/12/2017;0;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Palle Poulsen'}];57,477244;10,24421
+16860808;CARL HERSE;Rævekærvej 4;6230;Rødekro;Nørrehede;FALSE;74698121;;01/04/1993;30/06/2009;0;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Carl Jensen Herse'}];55,125594;9,37573
+25006267;Hvam Slagterhus I/S;Gl. Viborgvej 86;9620;Aalestrup;;FALSE;98648003;;11/10/1999;19/11/2017;2-4;30;Interessentskab;19/11/2017;TRUE;3;[{'name': 'Bo Laurits Hougaard Nielsen'}, {'name': 'Elisabet Nielsen'}];56,7638821;9,5580595
+38998455;AIDT SLAGTEHUS V/DANNIE TOM JØRGENSEN;Bavnehøjvej 1;8881;Thorsø;Aidt;FALSE;86966943;;01/02/1987;31/12/2010;0;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Dannie Tom Jørgensen'}];56,3115561;9,8063041
+30475135;Jørgen Olsen;Elmekrogen 4;3200;Helsinge;;FALSE;21629620;jio@postil.tele.dk;01/08/2007;31/12/2009;;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Jørgen Ingemann Olsen'}];56,019973;12,185677
+13069948;Tonis Slagterhus v/Toni Abrahamsen;Stenagervej 4;6240;Løgumkloster;Bedsted;TRUE;74777025;;01/04/1985;28/02/2018;2-4;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Toni Abrahamsen'}];55,081201;9,100139
+32792162;Norwest Foods International ltd;Nygade 5-7;9760;Vrå;;FALSE;96248500;ces@d-m-c.dk;06/04/2010;30/09/2010;;210;Anden udenlandsk virksomhed;;FALSE;;[{'name': 'Norwest Foods International ltd'}];57,354579;9,943587
+33432550;KS Kød I/S;Hvamvej 23;7500;Holstebro;;FALSE;40102617;;01/04/2011;30/09/2012;0;30;Interessentskab;;FALSE;;[{'name': 'Sten Mølgaard'}, {'name': 'Kurt Nielsen'}];56,4093835;8,7305805
+15085681;SLAGTERISELSKABET DANISH CROWN AMBA SVINEDIVISION NORD;Østergade 8;8850;Bjerringbro;;FALSE;;;01/04/1991;06/07/2010;;110;Forening;;FALSE;;;56,3751813;9,6610264
+25208897;Morsø Slagteri;Food Parken 3;7900;Nykøbing M;;FALSE;;;25/02/2016;23/03/2018;0;10;Enkeltmandsvirksomhed;23/03/2018;TRUE;3;[{'name': 'Bente Nielsen'}];56,820603;8,7860729
+35786171;Sæby Gårdslagteri;Hasselvej 2;9300;Sæby;;FALSE;60443804;logt@email.dk;01/06/2014;30/06/2020;0;10;Enkeltmandsvirksomhed;;FALSE;;[{'name': 'Thomas Heden Gadekær'}];57,3245408;10,4895661
+29139725;DANISH MEAT COMPANY A/S;Nygade 5-7;9760;Vrå;;FALSE;96248500;lunden@asdal.dk;12/10/2005;11/12/2012;100-199;60;Aktieselskab;11/12/2012;TRUE;3;;57,354579;9,943587
+10130816;MORSØ SLAGTERI OG KØDENGROS ApS;Food Parken 3;7900;Nykøbing M;Tødsø;FALSE;97720074;;31/01/2003;03/07/2013;2-4;80;Anpartsselskab;03/07/2013;TRUE;3;;56,820603;8,7860729
+32664601;AKTIESELSKABET AF 28. DECEMBER 2009;Store Kongensgade 69;1264;København K;;FALSE;;;28/12/2009;22/06/2012;20-49;60;Aktieselskab;22/06/2012;TRUE;3;;55,681994;12,591177
+31067693;VESTFYENS SLAGTEHUS ApS;Industrivej 2;5592;Ejby;;FALSE;86255256;;22/11/2007;26/04/2012;0;80;Anpartsselskab;26/04/2012;TRUE;3;;55,440792;9,9445219
+14417176;GUDME PRIVATSLAGTERI ApS;Teglværksvej 89;5884;Gudme;;FALSE;62251081;johnf@nielsen.mail.dk;01/08/1990;11/07/2017;0;80;Anpartsselskab;11/07/2017;TRUE;3;;55,1551;10,7018511
+20958472;SKOVGAARD'S SLAGTERI OG KØDOPSKÆRING A/S;Industrivej 7;5750;Ringe;;FALSE;62621096;;17/06/1998;16/11/2012;0;60;Aktieselskab;16/11/2012;TRUE;3;;55,2483719;10,4865017
+30812271;MOESGAARD MEAT A/S;Naurvej 17;7500;Holstebro;;FALSE;97432326;;24/08/2007;16/11/2015;0;60;Aktieselskab;16/11/2015;TRUE;3;;56,376774;8,517515
+10112613;TAGMOSES SLAGTEHUS, TISTRUP ApS;Frejasvej 13;6862;Tistrup;;FALSE;75292172;;01/01/2003;21/12/2009;0;80;Anpartsselskab;21/12/2009;TRUE;3;;55,710429;8,604746
+86555816;SKARRESØ PRIVATSLAGTERI A/S;Bødkervej 1;4450;Jyderup;;FALSE;;;22/06/1979;19/06/2014;0;60;Aktieselskab;19/06/2014;TRUE;3;;55,648731;11,431577
+29148287;JUTLAND MEAT A/S;Havnevej 8;7600;Struer;;FALSE;;info@jutlandmeat.dk;25/10/2005;18/10/2019;0;60;Aktieselskab;18/10/2019;TRUE;3;;56,492939;8,6029969
+31279585;HÅRBY SLAGTEHUS ApS;Den Grønne Vej 1;8660;Skanderborg;Hårby;FALSE;;;29/02/2008;16/04/2019;0;80;Anpartsselskab;16/04/2019;TRUE;3;;56,081172;9,89441
+34734496;DANISH MEAT COMPANY, VRAA A/S;Nygade 5-7;9760;Vrå;;FALSE;;;13/11/2012;14/08/2018;2-4;60;Aktieselskab;14/08/2018;TRUE;3;;57,354579;9,943587
+31279844;H. S. SLAGTERI, SKANDERBORG ApS;Den Grønne Vej 1;8660;Skanderborg;;FALSE;;;29/02/2008;21/12/2015;0;80;Anpartsselskab;21/12/2015;TRUE;3;;56,081172;9,89441
+25322894;NORDKØD ApS;Harløsevej 224;3400;Hillerød;;FALSE;48210417;;01/04/2000;14/06/2016;0;80;Anpartsselskab;14/06/2016;TRUE;3;;55,9252422;12,2187219
+21239372;VOERLADEGAARD SLAGTER A/S;Holmedal 28;8660;Skanderborg;Voerladegård;FALSE;75782040;;01/10/1998;26/08/2010;0;60;Aktieselskab;26/08/2010;TRUE;1;;56,0240817;9,7307356
+25022173;EJENDOMSSELSKABET LASK ApS;Munkhulevej 5;6990;Ulfborg;Staby;FALSE;;;11/11/1999;28/10/2009;0;80;Anpartsselskab;28/10/2009;TRUE;;;56,252205;8,23159
+45613410;ANDELSSELSKABET AF 2. JULI 2012;Bragesvej 18;4100;Ringsted;;FALSE;;;18/11/1986;31/01/2014;0;140;Andelsselskab (-forening) med begrænset ansvar;31/01/2014;TRUE;;;55,429287;11,798491
+37172855;XYÅ af 30.12.2018 A/S;Brunagervej 1;8361;Hasselager;Kolt;FALSE;;;09/10/2015;26/03/2020;;60;Aktieselskab;26/03/2020;TRUE;;;56,100809;10,071129
+70243016;STEFF-HOULBERG A.M.B.A.;Marsvej 43;8960;Randers SØ;;FALSE;;;28/11/1986;08/09/2009;0;140;Andelsselskab (-forening) med begrænset ansvar;08/09/2009;TRUE;;;56,430005;10,059676
+62011513;SB PORK A/S;Markedsvej 9;6650;Brørup;;FALSE;75381433;;11/08/1980;08/01/2019;200-499;60;Aktieselskab;;FALSE;;;55,482887;9,009634

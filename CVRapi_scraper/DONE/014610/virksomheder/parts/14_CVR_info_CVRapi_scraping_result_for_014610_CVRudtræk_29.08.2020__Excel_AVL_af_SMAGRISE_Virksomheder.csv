@@ -1,0 +1,179 @@
+﻿CVR;nameCvr;addressCvr;zipcodeCvr;cityCvr;citynameCvr;protectedCvr;phoneCvr;emailCvr;startdateCvr;enddateCvr;employeesCvr;companycodeCvr;companydescCvr;creditstartdateCvr;creditbankruptCvr;creditstatusCvr;ownersNameCvr
+96109555;GÅRDEJER STIG KURT OLSEN;Hasselvangen 251;8355;Solbjerg;;False;86923592;;22/08 - 1988;30/09 - 2012;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Stig Kurt Olsen'}]
+84149357;LANDMAND HC FREDERIKSEN;Skovvej 39;6430;Nordborg;Havnbj Skov;False;74453198;;10/05 - 1973;31/12 - 2012;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Hans Christian Frederiksen'}]
+37560588;Gourmet-svinet;Sportsvej 3;4871;Horbelev;;True;60119297;T.hoej@jubii.dk;23/03 - 2016;31/12 - 2018;;15;Personligt ejet Mindre Virksomhed;;False;;[{'name': 'Thomas Høj'}]
+35188207;Soeren B Hansen;Marienlunden 34;4296;Nyrup;;False;;sbhsyd@hotmail.com;01/08 - 2013;01/08 - 2013;;210;Anden udenlandsk virksomhed;;False;;[{'name': 'Søren B Hansen'}, {'name': 'Kim Daniel Hansen'}]
+28359608;I/S Larsen drift v/Svend A Larsen & Bjarne Larsen;Galbjergvej 4;5932;Humble;Brandsby;False;;;01/01 - 2005;31/12 - 2018;0;30;Interessentskab;;False;;[{'name': 'Svend Arne Larsen'}, {'name': 'Bjarne Larsen'}]
+14383387;GODTHÅB V/TORBEN HJORTH;Nærildvej 4;6880;Tarm;Lyne;False;75250020;;07/08 - 1990;30/06 - 2013;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Torben Hjorth'}]
+10008697;LEIF B KÆR;Hornstrupvej 11;7700;Thisted;;False;97931876;;19/12 - 1985;31/12 - 2011;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Leif Bisgaard Kær'}]
+26975476;Ella Nielsen;Søndre Kirkevej 11;7130;Juelsminde;Møgelkær;False;75682161;;16/12 - 2002;08/03 - 2015;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Ella Nielsen'}]
+16913936;JØRGEN BREINHOLT;Bredvigvej 24;7490;Aulum;Hodsager;False;97476169;;01/01 - 1993;30/06 - 2016;2-4;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jørgen Breinholt'}]
+14267670;Holmegård I/S v/Bente & Peter Christensen;Løvegårdsvej 2;4270;Høng;;False;57805591;holmegaard@privat.tdcadsl.dk;10/07 - 1990;18/04 - 2016;0;30;Interessentskab;;False;;[{'name': 'Peter Henry Christensen'}, {'name': 'Bente Lindqvist Christensen'}]
+40634215;RUDOLF LARSEN;Bymosevej 18;4000;Roskilde;Gundsømagle;False;46787430;;15/01 - 1969;31/12 - 2008;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Rudolf Kaj Larsen'}]
+76325111;GDR THORKILD JENSEN;Lundbyvej 36;4750;Lundby;Køng;False;55766602;;01/07 - 1983;24/07 - 2008;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Thorkild Walter Jensen'}]
+77413928;TAGE GADENSGAARD;Hellumvej 19;9320;Hjallerup;;False;98282490;;08/12 - 1983;31/03 - 2009;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Tage Gadensgaard'}]
+37946516;HERNINGEGNENS ANDELSSOSTALD;Bliddalvej 6;7400;Herning;Amtrup;False;97161164;;07/08 - 1964;29/05 - 2018;0;130;Andelsselskab (-forening);;False;;
+15208309;LANDMÆND CHRISTIAN BOSSEN & TINA OVERGÅRD BOSSEN;Gerdingvej 24;9520;Skørping;Fræer;False;98396051;;01/08 - 1991;30/04 - 2016;2-4;30;Interessentskab;;False;;[{'name': 'Christian Bossen'}, {'name': 'Tina Overgaard Bossen'}]
+18723573;Anni Poulsen;Nørbæk 22;6950;Ringkøbing;Velling;True;;tp@klaptoft.dk;01/09 - 1995;31/12 - 2016;10-19;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Anni Poulsen'}]
+19206831;I/S BØGHOLT;Blangstrupvej 17;5610;Assens;Blangstrup;False;64791348;;01/07 - 1996;31/10 - 2019;5-9;30;Interessentskab;;False;;[{'name': 'Peder Holmfrid Jonasson'}, {'name': 'Kirsten Jonasson'}, {'name': 'Gert Holmfrid Jonasson'}]
+17788280;LANDMAND CHRISTIAN BRATH;Strandvejen 4, 1;9000;Aalborg;;False;98286655;siverholm14@gmail.com;15/05 - 1994;15/01 - 2019;2-4;10;Enkeltmandsvirksomhed;15/01 - 2019;True;3;[{'name': 'Christian Brath'}]
+38510304;Konventionel svineproduktion I/S;Trevadvej 30;7800;Skive;;True;22304676;Fiffig@mail.tele.dk;01/04 - 2017;30/09 - 2017;;30;Interessentskab;;False;;[{'name': 'Flemming Overgård Jørgensen'}, {'name': 'Anne Birthe Jørgensen'}]
+25944135;Gårdejer Christen Hillersborg;Badehusvej 16;9000;Aalborg;;False;98585415;;15/03 - 2001;21/01 - 2016;0;10;Enkeltmandsvirksomhed;21/01 - 2016;True;3;[{'name': 'Christen Hillersborg'}]
+12842880;JØRN OEHLENSCHLÆGER;Gl. Højrupvej 6;6580;Vamdrup;Ødis Bramdr;False;75598245;;15/03 - 1987;20/12 - 2016;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jørn Oehlenschlæger'}]
+32581846;Aagaard Multisite I/S;Rigtrupvej 65;8370;Hadsten;;False;;;01/01 - 2010;31/12 - 2015;5-9;30;Interessentskab;;False;;[{'name': 'Henrik Alexandersen'}, {'name': 'Jørn Degn Pedersen'}]
+16251100;CARSTEN NØRGAARD LINDE;Sevelskovbyvej 9;7830;Vinderup;Sevelskovby;False;97448483;;01/08 - 1992;31/12 - 2016;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Carsten Nørgaard Linde'}]
+34920516;Olav Mølgaard Jacobsen;Nedervej 16;6990;Ulfborg;;True;;olav_jacobsen@hotmail.com;01/03 - 2013;31/12 - 2019;5-9;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Olav Mølgaard Jacobsen'}]
+29237492;Anders Rasmussen;Hack Kampmanns Plads 2;8000;Aarhus C;;False;86485512;smedebjerg@mail.dk;01/01 - 2006;22/08 - 2019;2-4;10;Enkeltmandsvirksomhed;22/08 - 2019;True;1;[{'name': 'Anders Rasmussen'}]
+27909523;Nykjærsminde I/S v/Aage Mortensen og Thomas Mortensen;Søndre Smalbyvej 72;9370;Hals;;False;98851192;;01/01 - 2004;03/11 - 2015;0;30;Interessentskab;03/11 - 2015;True;3;[{'name': 'Aage Mortensen'}, {'name': 'Thomas Mortensen'}]
+31176611;HOLGER BOLVIG NIELSEN;Krogsdamvej 85;9352;Dybvad;;False;98864149;;16/02 - 1971;07/12 - 2017;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Holger Bolvig Nielsen'}]
+26797195;Højmark I/S Carsten og Allan Johnsen;Højmarken 24;8830;Tjele;Tindbæk;False;86451955;;01/10 - 2002;05/10 - 2018;5-9;30;Interessentskab;;False;;[{'name': 'Carsten Munk Johnsen'}, {'name': 'Allan Johnsen'}]
+63918415;NIELS HAUGÅRD ERIKSEN;Hurupvej 5;7760;Hurup Thy;;False;97941636;;01/07 - 1980;01/10 - 2019;5-9;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Niels Haugaard Eriksen'}]
+13271984;BØRGE SØRENSEN;Højfjældevej 5;4900;Nakskov;;False;54939144;;01/11 - 1976;28/06 - 2018;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Børge Sørensen'}]
+27248233;Møllegård I/S v/Jens Michael Andreasen & Martin Andreasen;Holtevej 145;9700;Brønderslev;;False;98837121;;01/07 - 2003;31/12 - 2019;0;30;Interessentskab;;False;;[{'name': 'Jens Michael Andreasen'}, {'name': 'Martin Andreasen'}]
+32106803;Bjarne Larsen;Vinkelvej 253;8800;Viborg;Vinkel;False;86639034;;01/04 - 2009;23/05 - 2020;2-4;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Bjarne Larsen'}]
+27404014;Kathrinebjerg I/S;Jagtvej 17;6040;Egtved;Bølling;False;;;01/01 - 2004;15/01 - 2020;0;30;Interessentskab;;False;;[{'name': 'Jens Peter Johansen'}, {'name': 'Carsten Baungaard Johansen'}]
+76589518;LANDMAND ARNE BUUS;Gelstrupvej 3;9240;Nibe;Gelstrup;False;98351142;;01/09 - 1981;30/06 - 2017;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Arne Buus'}]
+44797917;NIELS-OVE NIELSEN;Næsbyskovvej 21;4200;Slagelse;Næsbyskov;False;58266095;;03/07 - 1967;24/06 - 2020;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Niels Ove Nielsen'}]
+25070461;Erik Brinkmann Henriksminde;Sønderballevej 11;5892;Gudbjerg Sydfyn;;False;62254025;ebrinkmann66@hotmail.com;01/08 - 1999;30/06 - 2012;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Erik Brinkmann'}]
+14551891;GERT VESTERGÅRD OG HANNE VESTERGÅRD;Vilsgårdsmark 1;7980;Vils;Vilsgård;False;;;07/11 - 1990;30/06 - 2009;1;30;Interessentskab;;False;;[{'name': 'Gert Vestergaard'}, {'name': 'Hanne Vestergaard'}]
+20000996;GÅRDEJER ALLAN OVERGAARD ANDERSEN;Trigevej 20;8382;Hinnerup;;False;86474040;;01/05 - 1997;23/01 - 2019;0;10;Enkeltmandsvirksomhed;23/01 - 2019;True;3;[{'name': 'Allan Overgaard Andersen'}]
+14171886;LANDMAND KELD JENSEN;Bastholm Møllevej 31;9760;Vrå;;False;98988422;;15/12 - 1988;13/12 - 2015;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Keld Jensen'}]
+34922772;Anders Christensen;Esbjerg Brygge 28;6700;Esbjerg;;False;20779233;hojlundkontor@outlook.dk;18/02 - 2013;22/08 - 2018;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Anders Bergmann Christensen'}]
+69414915;GÅRDEJER IVAR KJÆR;Furvej 22;7800;Skive;;False;97529342;;11/12 - 1970;04/07 - 2020;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Ivar Kjær'}]
+12978936;PREBEN SOELBERG BALLE;Dalgasgade 29A, 3;7400;Herning;;False;;;01/04 - 1985;12/03 - 2013;5-9;10;Enkeltmandsvirksomhed;12/03 - 2013;True;3;[{'name': 'Preben Soelberg Balle'}]
+26442788;Claus Brian Rasmussen;Dalgasgade 29A, 3;7400;Herning;;False;;;01/02 - 2002;25/04 - 2016;2-4;10;Enkeltmandsvirksomhed;25/04 - 2016;True;3;[{'name': 'Claus Brian Rasmussen'}]
+17798103;SØREN LUTHER CHRISTENSEN;Godthåbsvej 4;8600;Silkeborg;;False;;soerenlc@hotmail.com;01/04 - 1994;21/08 - 2014;0;10;Enkeltmandsvirksomhed;21/08 - 2014;True;3;[{'name': 'Søren Luther Christensen'}]
+21330388;BJARNE FOGH KRISTENSEN;Bygaden 70;8700;Horsens;Stensballe;False;75658170;;01/01 - 1999;31/12 - 2009;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Bjarne Fogh Kristensen'}]
+20846631;Kastholm;Hvalsøvej 22;4320;Lejre;Osager;True;;bjergagergaard@email.dk;01/04 - 2013;31/12 - 2018;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Anna Lyse Wamsler'}]
+19801535;I/S ANNEBJERGGÅRD V/BØRGE OG ALFRED NIELSEN;Uglestrup Gade 17;4060;Kirke Såby;Uglestrup;False;46400528;;01/04 - 1996;30/06 - 2014;0;30;Interessentskab;;False;;[{'name': 'Alfred Vagn Nielsen'}, {'name': 'Børge Alfred Nielsen'}]
+21260142;LANDBRUG MORTEN UGLEBJERG;Varde Landevej 29;6800;Varde;Gravlund;False;;;01/10 - 1998;31/12 - 2017;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Morten Halkjær Uglebjerg'}]
+27249175;Gårdejer Jens Rønstrup;Auningvej 14;8963;Auning;Gjesing;False;98835219;;15/07 - 2003;30/09 - 2012;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jens Rønstrup'}]
+27140386;Maskinstation v/Jes Frisdahl Bach;Dalbyovervej 55;8983;Gjerlev J;Ø Tørslev;False;;sj-bach@skylinemail.dk;01/05 - 2003;31/12 - 2012;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jes Frisdahl Bach'}]
+37673722;yvonne isen;Egebjergvej 18;5771;Stenstrup;;False;;isenyvonne@gmail.com;10/05 - 2016;11/05 - 2016;;15;Personligt ejet Mindre Virksomhed;;False;;[{'name': 'Yvonne Isen'}]
+20593644;LANDBRUG KARL OLUF MADSEN;Lundgårdvej 8;7200;Grindsted;Stenderup Mk;False;21404580;luffe1@bbsyd.dk;01/01 - 1998;31/10 - 2017;5-9;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Karl Oluf Madsen'}]
+19633179;LARS OG ERIK POULSEN I/S;Vejlevej 105;7300;Jelling;Hørup;False;75871378;;01/07 - 1996;31/12 - 2013;0;30;Interessentskab;;False;;[{'name': 'Erik Poulsen'}, {'name': 'Lars Søsted Poulsen'}]
+31310334;I/S SøEng;Søgårdevej 3;6950;Ringkøbing;;False;97337178;;04/02 - 2008;31/12 - 2014;5-9;30;Interessentskab;;False;;[{'name': 'Uffe Søgaard Jørgensen'}, {'name': 'Just Stig Bøndergaard Enggrob'}]
+35975551;GÅRDEJER LARS ANDERSEN HYLDEBJERGGÅRD;Mindehøjvej 5;4673;Rødvig Stevns;Havnelev Mark;False;56506460;;15/03 - 1983;30/06 - 2008;2-4;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Lars Andersen'}]
+72926714;GÅRDEJER JACOB KRESTEN KJELDSEN;Grovebakkevej 4;8920;Randers NV;Over Fussing;False;86454750;;01/07 - 1983;31/12 - 2017;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jacob Kresten Kjeldsen'}]
+20465875;I/S SOVKROG V/ ANDERS LEDET JENSEN OG JAKOB LEDET JENSEN;Hirtshalsvej 640;9982;Ålbæk;;False;98488198;;01/08 - 1997;30/06 - 2008;1;30;Interessentskab;;False;;[{'name': 'Anders Ledet Jensen'}, {'name': 'Jakob Ledet Jensen'}]
+10507839;PER KIELSGAARD;Kilsgårdvej 4;7700;Thisted;Kjelstrup;False;97985178;;01/06 - 1980;30/09 - 2013;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Per Tange Kilsgaard'}]
+27326609;Gårdejer Jens Andersen;Rengevej 15;4660;Store Heddinge;Renge;False;;;01/10 - 2003;30/06 - 2012;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jens Andersen'}]
+47050928;JØRGEN FUTTRUP;Grynderupvej 38;7870;Roslev;Grynderup;False;97592318;;03/07 - 1967;31/12 - 2014;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jørgen Henrik Jensen Futtrup'}]
+21818909;Rørmosegaard V/Erling Nielsen;Kirke Søbyvej 81;5610;Assens;Kirke Søby;False;;;15/07 - 1999;31/12 - 2008;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Erling Nielsen'}]
+48109519;SØREN LAUERSEN;Toftholmvej 152;9690;Fjerritslev;Ullerup;False;98225058;;01/08 - 1973;31/03 - 2011;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Søren Lauersen'}]
+81452512;HOVGÅRD V/JØRGEN HALDRUP RASMUSSEN;Torvegade 16;6600;Vejen;;False;74575863;;01/07 - 1977;19/05 - 2016;0;10;Enkeltmandsvirksomhed;19/05 - 2016;True;3;[{'name': 'Jørgen Haldrup Rasmussen'}]
+15828846;LARS CARSTENSEN;Emborgvej 118;8660;Skanderborg;;False;86577094;86577094@dlgtele.dk;01/01 - 1992;09/04 - 2015;0;15;Personligt ejet Mindre Virksomhed;09/04 - 2015;True;3;[{'name': 'Lars Esben Carstensen'}]
+35556885;Linda Rasmussen;Torsholmsalle 4;3400;Hillerød;;True;48286184;;21/02 - 2014;30/06 - 2015;;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Linda Rigmor Rasmussen'}]
+27150705;Kai Ove Marcussen;Bostrupvej 9;7870;Roslev;Bostrup;False;;;14/04 - 2003;30/06 - 2008;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Kai Ove Marcussen'}]
+14532374;HUSMAND SVEND AAGE POULSEN JENSEN;Storegade 9, 1. tv.;8500;Grenaa;;False;86334656;;01/10 - 1990;06/01 - 2016;0;10;Enkeltmandsvirksomhed;06/01 - 2016;True;3;[{'name': 'Svend Åge Poulsen Jensen'}]
+16905941;Gårdejere Gitte Fogh Olesen & John Aage Fogh Olesen I/S;Noldervej 16;8500;Grenaa;;False;86384376;;01/01 - 1993;26/02 - 2015;0;30;Interessentskab;26/02 - 2015;True;3;[{'name': 'Gitte Olesen'}, {'name': 'John Aage Fogh Olesen'}]
+13592039;KARL EJNER JAKOBSEN;Fredbjergvej 117;9640;Farsø;;False;98631452;;01/07 - 1976;31/03 - 2008;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Karl Ejner Jakobsen'}]
+13513996;GÅRDEJER FINN HOLGER CHRISTENSEN;Randersvej 129;8990;Fårup;Handest;False;86452627;;15/09 - 1989;07/01 - 2016;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Finn Holger Christensen'}]
+25717805;Lars Pøhlsgaard;Adelgade 90;5400;Bogense;;False;64841339;;01/11 - 2000;07/05 - 2013;1;10;Enkeltmandsvirksomhed;07/05 - 2013;True;3;[{'name': 'Lars Henrik Pølsgård'}]
+20290943;LANDBRUG V/KASPER BRUUN;Storegade 4;6740;Bramming;Bramming;False;75270017;;01/08 - 1997;04/10 - 2011;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Kaspar Bruun'}]
+50924610;ERLING LUND JENSEN;Højvangen 10A;6800;Varde;Horne;False;75260074;;03/07 - 1967;30/06 - 2012;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Erling Lund Jensen'}]
+65311968;LANDMAND LUDVIG CHRISTENSEN;Adelvej 29;6500;Vojens;Bæk;False;74871137;;30/07 - 1980;31/12 - 2018;2-4;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Ludvig Christensen'}]
+18223244;JENS JACOBSEN;Snaremosevej 10;5900;Rudkøbing;Snaremose;False;54711188;;01/11 - 1994;30/06 - 2010;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jens Jacobsen'}]
+11188699;JØRGEN NIELSEN;Langerød 2;4300;Holbæk;;False;59438287;;01/07 - 1991;30/11 - 2010;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jørgen Christian Nielsen'}]
+20780444;SØREN GOSVIG;Mollerupvej 25;7860;Spøttrup;Rødding;False;97561914;;01/04 - 1998;30/09 - 2013;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Søren Bjerre Gosvig'}]
+79241911;KONGESTENSGÅRDEN V/LARS OLSEN;Kongestensvej 24;4400;Kalundborg;;False;59509579;;01/07 - 1982;27/11 - 2017;5-9;10;Enkeltmandsvirksomhed;27/11 - 2017;True;3;[{'name': 'Lars Olsen'}]
+12427301;JAN HVIID;Hedeagervej 6;9500;Hobro;Brøndum;False;98548114;;15/03 - 1988;19/06 - 2012;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jan Fabricius Hviid'}]
+30588711;FRODE NIELSEN;Skivevej 171;7500;Holstebro;Hvam;False;97461201;;03/07 - 1967;09/05 - 2009;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Frode Nielsen'}]
+26549256;Ottestrup v/Carsten Vognsen;Understedvej 153;9300;Sæby;;False;;;10/04 - 2002;13/03 - 2008;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Carsten Vognsen'}]
+12308140;BENT SØRENSEN;Eskelundvej 3;6650;Brørup;Eskelund;False;75381576;skn@jlbr.dk;01/08 - 1987;02/10 - 2014;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Bent Sørensen'}]
+11305504;BENT JENSEN;Gadstrup 1;5580;Nørre Aaby;;False;64421996;;01/11 - 1972;10/12 - 2009;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Bent Jensen'}]
+20580577;GÅRDEJER MARIE HØJBERG CHRISTENSEN;Hovensvej 63;9440;Aabybro;;False;98241057;;01/01 - 1998;18/06 - 2015;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Marie Wenø Christensen'}]
+59134310;H J SØNDERGÅRD JENSEN;Lendrupvej 23;9670;Løgstør;Løgsted;False;98673067;;15/10 - 1976;31/12 - 2009;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Hans John Søndergaard Jensen'}]
+59529714;JØRGEN JENSEN;Sønder Vilstrup Bygade 54;6100;Haderslev;;False;74582242;;01/08 - 1976;31/08 - 2016;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jørgen Peter Johansen Jensen'}]
+48398359;HR JØRGEN BAASTRUP NIELSEN;Christinedahlsvej 52;8464;Galten;Skovby;False;86943219;;30/10 - 1986;31/12 - 2011;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jørgen Baastrup Nielsen'}]
+31988500;Oosterhof I/S II;Veggerbyvej 69;9541;Suldrup;;False;98378907;tjaloosterhof@hotmail.com;10/01 - 2009;30/06 - 2012;0;30;Interessentskab;;False;;[{'name': 'Pieter Hessel Oosterhof'}, {'name': 'Hessel Jan Oosterhof'}]
+56563113;VERNER CHRISTENSEN;Geråvej 119;9340;Asaa;Gerå;False;98841781;;03/05 - 1973;31/12 - 2008;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Verner Christensen'}]
+28210116;I/S Meldgaard;Tjele Møllevej 20;8830;Tjele;Vammen;False;;;01/01 - 2005;31/12 - 2014;0;30;Interessentskab;;False;;[{'name': 'Henning Meldgaard'}, {'name': 'Thomas Meldgaard'}]
+60717818;Landbrug og Vindmølle v/Svend Bundgaard;Hylholtvej 56;9340;Asaa;V Melholt;False;98851186;;01/08 - 1981;30/06 - 2014;5-9;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Svend Bundgaard'}]
+25520149;Landmand Niels Jørgen Høgh Thomsen;Åboulevarden 13;8000;Aarhus C;;False;;;18/07 - 2000;15/01 - 2015;0;10;Enkeltmandsvirksomhed;15/01 - 2015;True;1;[{'name': 'Niels Jørgen Høgh Thomsen'}]
+27359132;Sonja Krogh;Hovmøllevej 14;7960;Karby;Torp;False;97761111;;01/10 - 2003;31/12 - 2014;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Sonja Krogh'}]
+81815259;GÅRDEJER ANDERS GARTNER SØRENSEN;Glerupvej 83;9631;Gedsted;Klotrup;False;98641820;;01/07 - 1976;30/06 - 2009;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Anders Gartner Sørensen'}]
+10381436;LARS CLAUSEN;Nørreskiftevej 31;8305;Samsø;Brundby;False;86590527;;01/04 - 1986;30/09 - 2010;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Lars Fabricius Clausen'}]
+70472155;GÅRDEJER ERIK ANDERSEN;Jorløse Byvej 40;4470;Svebølle;;False;59293538;;03/07 - 1967;30/06 - 2011;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Erik Andersen'}]
+35720103;Lærkegården v/Carsten Melgaard;Klinkbjerg 1;6200;Aabenraa;;True;;grise@godmail.dk;01/06 - 2014;07/04 - 2015;0;10;Enkeltmandsvirksomhed;07/04 - 2015;True;3;[{'name': 'Carsten Mikkelsen Melgaard'}]
+25996755;Henrik Tværgård Larsen;Oddevej 5;9690;Fjerritslev;Klim;False;98212293;;01/04 - 2001;31/05 - 2014;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Henrik Tværgaard Larsen'}]
+20552735;I/S ENGHAVEGAARD;Engumvej 91;7120;Vejle Øst;;False;75895178;;01/01 - 1998;30/06 - 2016;0;30;Interessentskab;;False;;[{'name': 'Frede Brødsgaard'}, {'name': 'Claus Brødsgaard'}]
+15598042;I/S NIELS OG PEDER NYGAARD HANSEN;Bogensevej 30;5620;Glamsbjerg;Bukkerup;False;64722448;;01/12 - 1991;30/06 - 2016;5-9;30;Interessentskab;;False;;[{'name': 'Niels Nygaard Hansen'}, {'name': 'Peder Nygaard Hansen'}]
+20592370;Avlscenter Eskegård I/S v/Jørgen og Erik Schultz;Møllegyde 9;6100;Haderslev;Anslet;True;21263416;jorgen@eskegaard.dk;01/01 - 1998;30/06 - 2016;20-49;30;Interessentskab;;False;;[{'name': 'Bjarne Schultz'}, {'name': 'Jørgen Schultz'}, {'name': 'Erik Schultz'}]
+12628072;JIMMI RASMUSSEN;Vester Allé 4;8000;Aarhus C;;False;86464346;;01/01 - 1989;01/02 - 2016;0;10;Enkeltmandsvirksomhed;01/02 - 2016;True;3;[{'name': 'Jimmi Rasmussen'}]
+27536034;Visbygård/ Kim Morbech;snavevej 130;5390;martofte;;True;;kim@visbygaard.dk;31/12 - 2003;15/07 - 2016;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Kim Viggo Morbech'}]
+19448800;FLEMMING KRUSE;Ånumvej 167;6900;Skjern;Borris;False;97366232;;01/07 - 1996;28/07 - 2008;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Flemming Kruse'}]
+12194390;LAURITS HANSEN;Dokken 10;6700;Esbjerg;;False;74582277;;01/04 - 1985;11/04 - 2014;0;10;Enkeltmandsvirksomhed;11/04 - 2014;True;1;[{'name': 'Laurits Larsen Hansen'}]
+41574151;LANDMAND OLE RASMUSSEN;Mariane Thomsens Gade 1C, 8;8000;Aarhus C;;False;;mail@vranumlund.dk;01/04 - 1983;22/08 - 2018;0;10;Enkeltmandsvirksomhed;22/08 - 2018;True;3;[{'name': 'Ole Rasmussen'}]
+21553271;PETER FOGED;Grimsbrovej 4;8530;Hjortshøj;Todbjerg;False;86999125;;15/03 - 1999;21/08 - 2014;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Peter Provstgaard Foged'}]
+58042617;GDR BJARNE ESHØJ;Snage Skovvej 1;5953;Tranekær;Frellesvig;False;62501236;;01/03 - 1975;30/06 - 2019;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Bjarne Eshøj'}]
+30094670;PFK I/S v/Rasmus Steen Petersen og Povl Fritzner;Tyvelsevej 97;4171;Glumsø;Sandby;False;20913543;;15/12 - 2006;30/09 - 2016;2-4;30;Interessentskab;;False;;[{'name': 'Rasmus Steen Petersen'}, {'name': 'Povl Fritzner'}, {'name': 'Frank Buchholz Køhler'}]
+26908868;Søren Horup;Åstrup Strandvej 69;8541;Skødstrup;;False;86991043;;01/01 - 2003;13/05 - 2013;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Søren Ferdinand Horup'}]
+18773341;Haverslev Vestergaard I/S;Hødeshøjvej 41;9690;Fjerritslev;Haverslev;False;98215152;;01/05 - 1995;30/06 - 2016;20-49;30;Interessentskab;;False;;[{'name': 'Niels Michael Møller'}, {'name': 'Valdemar Johannes Møller'}]
+76530114;LILLE TANKEDAL V/KAJ ØSTERGAARD;Koldingvej 20;6580;Vamdrup;Hjarup;False;75594244;;30/04 - 1980;26/01 - 2018;5-9;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Kaj Østergaard'}]
+28838255;Højagergård I/S v/ Henriette og Jens Hansen;Troldhedevej 16;6920;Videbæk;Vorgod Ø;False;;;15/07 - 2005;30/06 - 2011;1;30;Interessentskab;;False;;[{'name': 'Jens Hansen'}, {'name': 'Henriette Bokær Hansen'}]
+71680312;RASMUS FREDSLUND;Bredmosevej 15;6800;Varde;Øse;False;75298475;;01/03 - 1978;07/04 - 2020;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Rasmus Fredslund'}]
+19875695;LANDMAND JENS ERIK SØRENSEN;Molsvej 88;8400;Ebeltoft;Grønfeld;False;86365635;;01/03 - 1997;31/12 - 2019;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jens-Erik Holst Sørensen'}]
+27240097;Jakob Bergmann Nielsen;Torlundvej 5;6870;Ølgod;;False;76759030;j-bergmann@hotmail.com;01/07 - 2003;31/03 - 2017;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jakob Bergmann Nielsen'}]
+10787297;FLEMMING JENSEN;Vordingborgvej 165;4681;Herfølge;;False;56283466;;01/01 - 1969;31/12 - 2018;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Hans Flemming Jensen'}]
+28197241;Mark Bech;Torvegade 16;6600;Vejen;;False;;;01/12 - 2004;16/06 - 2017;0;10;Enkeltmandsvirksomhed;16/06 - 2017;True;3;[{'name': 'Mark Truelsen Bech'}]
+61449612;JØRGEN MARTIN JESSEN;Lillebjergvej 1A;6534;Agerskov;Rangstrup;False;74519275;;01/04 - 1978;31/03 - 2012;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Jørgen Martin Jessen'}]
+10211751;Dødsboet efter Jens Snedker;Jens Terp-Nielsens Vej 13;6200;Aabenraa;;False;;;04/02 - 2019;30/03 - 2020;5-9;20;Dødsbo;;False;;
+80220510;KRISTIAN VESTEN PEDERSEN;Vesterløkke 2;5970;Ærøskøbing;;False;62521213;;01/07 - 1976;30/06 - 2017;1;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Kristian Vesten Pedersen'}]
+37524190;Samsø Frilandsgris;Sønderstræde 13;8305;Samsø;;True;20626464;samsofrigris@gmail.com;01/02 - 2016;31/03 - 2020;0;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Sussanne Ina Maren Lind'}]
+11433537;Landmand Sven Müller;Maglegårdsvej 2;4621;Gadstrup;Ramsølille;False;46190953;;11/06 - 1975;30/06 - 2020;10-19;10;Enkeltmandsvirksomhed;;False;;[{'name': 'Sven Müller'}]
+26602254;Thomas Øllgaard;Nygade 4;7900;Nykøbing M;;False;97769013;;01/05 - 2002;09/06 - 2011;1;10;Enkeltmandsvirksomhed;09/06 - 2011;True;3;[{'name': 'Thomas Norup Øllgaard'}]
+27602533;HEIDESMINDE PRODUKTION ApS;Dalgårdvej 11;7860;Spøttrup;Brøndum;True;;;19/02 - 2004;20/12 - 2013;2-4;80;Anpartsselskab;20/12 - 2013;True;3;
+15882131;VELLUMGAARD ApS;Ellevej 11;8310;Tranbjerg J;;False;;;01/01 - 1992;26/05 - 2010;0;80;Anpartsselskab;26/05 - 2010;True;3;
+26988330;MORTENSEN AGRO A/S;Skærsøvej 35;6040;Egtved;;False;75320630;;28/06 - 2004;13/12 - 2019;0;60;Aktieselskab;13/12 - 2019;True;3;
+27348998;ALSTRUP PRODUKTION ApS;Dalgårdvej 11;7860;Spøttrup;Brøndum;True;;;18/09 - 2003;20/12 - 2013;2-4;80;Anpartsselskab;20/12 - 2013;True;3;
+29149933;HVIDKJÆR A/S;Kastanievej 1;6818;Årre;Tranbjerg;False;75192412;;26/10 - 2005;25/08 - 2017;0;60;Aktieselskab;25/08 - 2017;True;3;
+31939674;MIDTJYSK SVINEPRODUKTION ApS;Østergade 1A;7430;Ikast;;False;61371159;;15/01 - 2009;07/05 - 2014;0;80;Anpartsselskab;07/05 - 2014;True;3;
+31603846;SØNDERUPGAARD I A/S;Bjerring Hede 30;8850;Bjerringbro;;False;72650144;;25/06 - 2008;06/03 - 2020;0;60;Aktieselskab;06/03 - 2020;True;3;
+35250808;HJØLLUND PRODUKTION ApS;Attenagrevej 1;6950;Ringkøbing;Ølstrup;False;;Info@hjoellundproduktion.dk;27/05 - 2013;13/12 - 2018;0;80;Anpartsselskab;13/12 - 2018;True;3;
+31166535;EGEGÅRD ApS;Randersvej 245;8450;Hammel;;False;86999630;;02/01 - 2008;14/05 - 2020;0;80;Anpartsselskab;14/05 - 2020;True;3;
+25477065;SOLVANG GÅNSAGER A/S;Tinghøjvej 13;6893;Hemmet;Sdr Vium;False;;;29/06 - 2000;19/03 - 2013;0;60;Aktieselskab;19/03 - 2013;True;3;
+28839227;LERBJERGGÅRD 2005 A/S;Hellen 8;5683;Haarby;Trunderup Mk;False;24630350;;26/05 - 2005;04/05 - 2011;2-4;60;Aktieselskab;04/05 - 2011;True;3;
+71271919;DALLERUPGÅRD A/S;Dallerupvej 16;8781;Stenderup;;False;75681260;;12/10 - 1982;30/01 - 2018;0;60;Aktieselskab;30/01 - 2018;True;3;
+31884667;STORBAKKEN INVEST ApS;Storbakken 2;8530;Hjortshøj;Grøttrup;False;86991224;;16/12 - 2008;09/12 - 2015;0;80;Anpartsselskab;09/12 - 2015;True;3;
+21285994;MARIENHOLM & LYNDERUPGÅRD ApS;Jyllandsgade 1;9610;Nørager;Haverslev;False;98654050;;02/07 - 1998;27/01 - 2016;0;80;Anpartsselskab;27/01 - 2016;True;3;
+36064404;BORDING PRODUKTION ApS;Nyvang 9;7430;Ikast;;False;;;13/08 - 2014;11/03 - 2016;0;80;Anpartsselskab;11/03 - 2016;True;;
+16209503;SERUPGÅRD SVINEAVL A/S;Bjerring Hede 48;8850;Bjerringbro;;False;86685167;;19/06 - 1992;12/10 - 2011;1;60;Aktieselskab;12/10 - 2011;True;;
+30830911;SUNFIELD HOLDING ApS;John F. Kennedys Plads 1K, 6;9000;Aalborg;;False;72301205;;20/09 - 2007;26/07 - 2017;0;80;Anpartsselskab;26/07 - 2017;True;;
+31489059;HÅSUM SVINEPRODUKTION ApS;Hestehaven 26;7323;Give;;False;97381118;;11/06 - 2008;20/11 - 2012;;80;Anpartsselskab;20/11 - 2012;True;;
+34894698;GRAUBALLEGAARD PRODUKTION ApS;Grønbækvej 34;8600;Silkeborg;;False;40188130;;19/12 - 2012;27/09 - 2016;0;80;Anpartsselskab;27/09 - 2016;True;;
+39106728;Økornbek ApS;Fjellebrostræde 13;5370;Mesinge;Midskov;True;65341138;;23/11 - 2017;06/09 - 2019;;80;Anpartsselskab;06/09 - 2019;True;;
+27385079;NOESGAARD - VIND ApS;I C Christensens Vej 17;6950;Ringkøbing;Hee;False;97335700;tage@velumgaard.dk;01/10 - 2003;04/04 - 2014;;80;Anpartsselskab;04/04 - 2014;True;;
+33041950;AGRO ØSTJYLLAND ApS;Hesselballevej 19;7100;Vejle;;False;75954952;torben-larsen@larsen.mail.dk;20/06 - 2010;27/10 - 2016;0;80;Anpartsselskab;;False;;
+33151845;GRYNT 2010 A/S;Lomvievej 16;8541;Skødstrup;Studstrup;False;;;06/09 - 2010;27/06 - 2014;;60;Aktieselskab;;False;;
+26672171;ØDUM ENGHOLM A/S;Ågårdsvej 11;8370;Hadsten;Ødum;False;86989143;;01/01 - 2002;26/09 - 2016;0;60;Aktieselskab;;False;;
+26659981;NØRREVANG ApS;Nørremarksvej 31;6780;Skærbæk;Birkelev;False;;;21/06 - 2002;07/12 - 2010;5-9;80;Anpartsselskab;;False;;
+36070994;DayPork ApS;Adelgade 8;9500;Hobro;;True;;;22/08 - 2014;28/01 - 2020;0;80;Anpartsselskab;;False;;
+25880749;MOSEGÅRD MULTISITE ApS;Degnegyden 2;5690;Tommerup;;False;;;20/12 - 2000;25/11 - 2010;5-9;80;Anpartsselskab;;False;;
+32078249;LANGSTEDGAARD SVINEBRUG ApS;Langstedgyden 33;5610;Assens;;False;64792448;;16/03 - 2009;01/05 - 2012;;80;Anpartsselskab;;False;;
+10016223;LØKKESHØJ SVINEPRODUKTION A/S;Havløkkevej 62;4951;Nørreballe;;False;54789001;;16/12 - 1999;16/06 - 2009;0;60;Aktieselskab;;False;;
+26466393;ØSTERGÅRD SVIN ApS;Hovkrog 1;4684;Holmegaard;;False;;;08/02 - 2002;30/12 - 2010;2-4;80;Anpartsselskab;;False;;
+25485483;BLINDKILDE ApS;Blindkildevej 7;7550;Sørvad;;False;97438233;;01/01 - 2000;18/12 - 2015;2-4;80;Anpartsselskab;;False;;
+33780664;DEMSTRUP SVINEPRODUKTION ApS;Demstrupvej 42A;8970;Havndal;;False;;;29/06 - 2011;03/06 - 2014;;80;Anpartsselskab;;False;;
+27366635;VESTERVANG ApS;Søst Markvej 4;6230;Rødekro;Søst;True;75671911;bogholderi@noerdal.dk;28/08 - 2003;11/02 - 2019;0;80;Anpartsselskab;11/02 - 2019;True;;
+26628490;FIILSØ SVINEAVL A/S;Kærgårdvej 18;6854;Henne;;False;;;25/05 - 2002;21/12 - 2012;0;60;Aktieselskab;21/12 - 2012;True;;
+26669537;GRIMSTRUP AGRO A/S;Bjerreager 51;7120;Vejle Øst;;False;75851470;;27/06 - 2002;31/10 - 2016;0;60;Aktieselskab;31/10 - 2016;True;;
+37182680;Tangen Svineproduktion IVS;Gl Rådhusplads 1;9700;Brønderslev;;False;;;27/10 - 2015;15/05 - 2017;0;81;Iværksætterselskab;15/05 - 2017;True;;
+10403634;FINK'S LANDBRUG A/S;Dyrhave 24;6200;Aabenraa;;False;74662562;;01/09 - 1986;03/06 - 2014;0;60;Aktieselskab;03/06 - 2014;True;;
+28889313;LANGKÆRGÅRD MULTISITE ApS;Kellebyvej 20;5471;Søndersø;Kelleby;True;64892487;tclausen@email.dk;08/07 - 2005;12/10 - 2018;10-19;80;Anpartsselskab;;False;;
+21696005;VM DPL A/S;Østervej 98;4840;Nørre Alslev;Vålse;False;86812399;rj@dpl-invest.dk;28/04 - 1999;28/01 - 2015;0;60;Aktieselskab;;False;;
+35891579;KLOSTERSKOVGAARD LANDBRUG ApS;Vivildvej 1;8370;Hadsten;;False;86981926;ove@klosterskovgaard.dk;17/06 - 2014;06/04 - 2016;1;80;Anpartsselskab;;False;;
+30086082;TH 2016 ApS;Ravnekærvej 20;5631;Ebberup;;False;64741484;tbt@holegaard.dk;11/12 - 2006;01/11 - 2016;0;80;Anpartsselskab;;False;;
+34054754;GRÅSTENSMINDE ØKOLOGI A/S;Karupvej 11;7540;Haderup;;True;21823587;hestbjerg@bertels.dk;17/11 - 2011;12/04 - 2017;5-9;60;Aktieselskab;;False;;
+27717233;FRISEVÆNGE ApS;Ålehoved 2;4900;Nakskov;;False;54948104;;30/04 - 2004;24/02 - 2017;2-4;80;Anpartsselskab;;False;;
+20699140;DØNNERUP AGRI A/S;Langelinie Allé 35;2100;København Ø;;False;59258540;doennerup@doennerup.dk;23/02 - 1998;20/06 - 2014;2-4;60;Aktieselskab;;False;;
+26497817;STENKÆRGAARD SVINEPRODUKTION A/S;Nystedvej 79;4990;Sakskøbing;Fjelde;False;54778797;steen@stenkaergaard.dk;01/02 - 2002;10/08 - 2010;1;60;Aktieselskab;;False;;
+16229040;ES DPL A/S;Rugerivej 26;9760;Vrå;;False;75254310;;03/07 - 1992;28/01 - 2015;0;60;Aktieselskab;;False;;
+13923833;'STENTOFT' SVINEPRODUKTION A/S;Rugerivej 26;9760;Vrå;;False;29205713;aa@dpl-invest.dk;01/01 - 1990;18/08 - 2015;0;60;Aktieselskab;;False;;
+37320366;Højengård ApS;Tingvejen 350;7200;Grindsted;Krogager Mk;True;51261960;kontor@madsenmink.com;18/12 - 2015;20/06 - 2019;2-4;80;Anpartsselskab;;False;;
+16075434;VESTERGÅRD SVINEPRODUKTION A/S;Søndersøvej 20;6854;Henne;;False;29205718;;08/04 - 1992;28/01 - 2014;0;60;Aktieselskab;;False;;
+77215816;MULSTRUP SPF SVINEAVLSCENTER ApS;Ingemannsvej 14;4600;Køge;;False;56820048;;15/02 - 1985;01/02 - 2016;2-4;80;Anpartsselskab;;False;;
+35816445;TØMMERUP MULTISITE ApS;Kongsdalvej 5A;4440;Mørkøv;;False;59170011;;31/03 - 2014;30/04 - 2018;;80;Anpartsselskab;;False;;
+37662283;Serupgård Svineproduktion ApS;Guldborgvej 12;8800;Viborg;;True;;faktura@serupgård-svineproduktion.dk;02/05 - 2016;14/11 - 2019;50-99;80;Anpartsselskab;;False;;
+21002380;EM DPL A/S;Nybyvej 21;4863;Eskilstrup;Ovstrup;False;86812399;;29/06 - 1998;28/01 - 2015;0;60;Aktieselskab;;False;;
+24253937;LUNDBECHLUND SMÅGRISEPRODUKTION K/S;Lundbovej 10;7140;Stouby;;False;;;30/06 - 1993;20/06 - 2014;5-9;40;Kommanditselskab;;False;;

@@ -1,0 +1,4 @@
+url; other
+https://dawa.aws.dk/adresser?q=Gjellerupvej 105, 8220 Brabrand; tom
+https://dawa.aws.dk/adresser?q=Lodshusvej 13, 4230 Skælskør; jack
+https://dawa.aws.dk/adresser?q=Hovvasen 9, 4983 Dannemare; john

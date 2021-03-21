@@ -1,0 +1,139 @@
+﻿CVR;P-nummer;mainPno;namePno;addressPno;zipcodePno;cityPno;protectedPno;phonePno;emailPno;startdatePno;enddatePno;employeesPno;addresscoPno;industrycodePno;industrydescPno;Lat;Lon
+26686997;1001675851;False;SEVEL SLAGTERI A/S;Hvamvej 23, st. tv.;7500.0;Holstebro;False;;;24/11 - 1966;31/12 - 2003;5-9;;522200;Slagter- og viktualieforretninger;56,40937;8,73063
+26686997;1009201935;True;SEVEL SLAGTERI A/S;Søgårdvej 28;7830.0;Vinderup;False;97448308.0;sevelslagteri@sevelslagteri.dk;01/01 - 2002;;20-49;;101110;Forarbejdning af svinekød;56,45987;8,87895
+34619069;1017816078;True;MOESGAARD MEAT 2012 A/S;Naurvej 3A;7500.0;Holstebro;False;;;18/07 - 2012;;20-49;;101110;Forarbejdning af svinekød;56,376528;8,517437
+13222495;1000523430;True;DANEPORK A/S;Tørskindvej 19;7183.0;Randbøl;False;75883866.0;info@danepork.dk;08/05 - 1989;;100-199;;101110;Forarbejdning af svinekød;55,69449;9,31451
+13201846;1000519483;True;GLUMSØ SLAGTEHUS APS;Søvej 5;4171.0;Glumsø;False;57646003.0;;01/01 - 1989;;20-49;;101110;Forarbejdning af svinekød;55,350791;11,690383
+38904108;1022802999;True;Hvidebæk Meat ApS;Industrivej 17D;4490.0;Jerslev Sjælland;False;;;01/09 - 2017;;;;101110;Forarbejdning af svinekød;55,6139471;11,2163612
+36686278;1020245014;True;Hvidebæk Slagteri og Pølsefabrik ApS;Industrivej 17D;4490.0;Jerslev Sjælland;False;;;05/03 - 2015;;50-99;;101110;Forarbejdning af svinekød;55,6139471;11,2163612
+21613584;1005064899;True;Grillslagteren ApS;Kirkebyvej 6;7700.0;Thisted;False;97981777.0;;19/04 - 1999;;0;Lars Jakobsen;101110;Forarbejdning af svinekød;57,022302;8,677042
+28717121;1011359872;True;SLAGTER ENGDAHL ApS;Industriparken 10;4960.0;Holeby;False;;;26/05 - 2005;;5-9;;101110;Forarbejdning af svinekød;54,72615;11,4588
+28717121;1024017105;False;Pølsemageri;Industriparken 10;4960.0;Holeby;False;;;01/10 - 2018;;;Slagter Engdahl ApS;101300;Produktion af kød- og fjerkrækødprodukter;54,72615;11,4588
+30920406;1013712804;True;GRAMBOGÅRD A/S;Ellehaven 55;5690.0;Tommerup;False;64761577.0;;10/09 - 2007;;10-19;;101110;Forarbejdning af svinekød;55,31235;10,216
+37033960;1020670734;True;HP Production ApS;Naurvej 3A;7500.0;Holstebro;False;97432326.0;moesgaard@moesgaard-meat.dk;24/08 - 2015;;20-49;;101110;Forarbejdning af svinekød;56,376528;8,517437
+27654746;1015938354;False;Vester Hæsinge Slagterforretning ApS;Birkevej 37;5672.0;Broby;False;62631353.0;vhslagter@mail.dk;25/03 - 2010;31/12 - 2013;2-4;;472200;Slagter- og viktualieforretninger;55,194946;10,247266
+27654746;1021177675;False;Vester Hæsinge Slagterforretning ApS;Birkevej 37;5672.0;Broby;False;62631353.0;vhslagter@mail.dk;02/02 - 2016;03/02 - 2016;;;463200;Engroshandel med kød og kødprodukter;55,194946;10,247266
+27654746;1021393130;False;Ringe Slagter &amp; Delikatesser;Jernbanegade 21;5750.0;Ringe;False;62631353.0;vhslagter@mail.dk;20/04 - 2016;31/12 - 2016;5-9;;472200;Slagter- og viktualieforretninger;55,23937;10,480508
+27654746;1010467043;True;VESTER HÆSINGE SLAGTERFORRETNING ApS;Birkevej 37;5672.0;Broby;False;62631353.0;vhslagter@mail.dk;22/03 - 2004;;10-19;;101110;Forarbejdning af svinekød;55,194946;10,247266
+16523844;1001113788;True;INCO SVENDBORG SLAGTEHUS A/S;Porthusvej 75;5700.0;Svendborg;False;62213278.0;;01/10 - 1992;;20-49;;101110;Forarbejdning af svinekød;55,073755;10,609686
+37144789;1020799249;True;Hårby Slagteren IVS;Den Grønne Vej 1;8660.0;Skanderborg;True;86523010.0;hs-slagteri@hotmail.dk;08/10 - 2015;;20-49;;101110;Forarbejdning af svinekød;56,081277;9,894588
+26121264;1016497297;False;Danish Crown A/S;Viddingherredsgade 26;6270.0;Tønder;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;31/12 - 2016;0;;101190;Forarbejdning af andet kød;54,9322607;8,8585858
+26121264;1021759607;False;Danish Crown A/S;Tulipvej 10;7100.0;Vejle;False;;;01/10 - 2016;30/11 - 2017;2-4;;101110;Forarbejdning af svinekød;55,73513;9,56902
+26121264;1021753617;False;Danish Crown A/S;Skt. Knuds Torv 7-9;8000.0;Aarhus C;False;89191919.0;;15/09 - 2016;31/12 - 2017;0;;101110;Forarbejdning af svinekød;56,15157;10,20594
+26121264;1016497416;False;Danish Crown A/S;Nygade 48;6900.0;Skjern;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;31/12 - 2014;0;;101190;Forarbejdning af andet kød;55,952791;8,490912
+26121264;1016497181;False;Danish Crown A/S;Østre Alle 4;9560.0;Hadsund;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;31/12 - 2013;20-49;;101110;Forarbejdning af svinekød;56,716021;10,116888
+26121264;1016497084;False;Danish Crown A/S;Vendersgade 40;7500.0;Holstebro;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;31/12 - 2013;10-19;;101190;Forarbejdning af andet kød;56,369482;8,619365
+26121264;1016497203;False;Danish Crown A/S;Vendersgade 6;7500.0;Holstebro;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;31/12 - 2014;0;;101190;Forarbejdning af andet kød;56,366182;8,619496
+26121264;1016497467;False;Danish Crown A/S;Vendersgade 23-25;7500.0;Holstebro;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;31/12 - 2014;1;;101110;Forarbejdning af svinekød;56,3669217;8,6199588
+26121264;1016497491;False;Danish Crown A/S;Brårupgade 11;7800.0;Skive;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;11/11 - 2014;0;;101110;Forarbejdning af svinekød;56,56159;9,035146
+26121264;1016519975;False;Danish Crown A/S;Gl Hygumvej 5;6630.0;Rødding;False;89191919.0;dc@danishcrown.dk;20/12 - 2010;05/01 - 2012;0;;101110;Forarbejdning af svinekød;55,3653;9,04902
+26121264;1016497289;False;DANISH CROWN A/S;Gammelby Ringvej 1;6700.0;Esbjerg;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;31/12 - 2014;1;;101110;Forarbejdning af svinekød;55,462987;8,46148
+26121264;1018235591;False;ESS-FOOD;Kirkebjerg Parkvej 9;2605.0;Brøndby;False;;;31/01 - 2013;31/10 - 2014;1;;101110;Forarbejdning af svinekød;55,659378;12,395431
+26121264;1016497254;False;Danish Crown A/S;Ndr. Havnevej 1;6000.0;Kolding;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;;5-9;;101110;Forarbejdning af svinekød;55,495083;9,492563
+26121264;1016458771;False;Danish Crown A/S;Havnegade 5;5600.0;Faaborg;False;89191919.0;;22/11 - 2010;;1;;101110;Forarbejdning af svinekød;55,09611;10,237623
+26121264;1019250810;False;ESS-Food;Kirkebjerg Parkvej 9;2605.0;Brøndby;False;;;01/01 - 2013;;2-4;;101110;Forarbejdning af svinekød;55,659378;12,395431
+26121264;1019812223;False;Danish Crown A/S;Flæsketorvet 41;1711.0;København V;False;89191919.0;hekn@danishcrown.dk;01/06 - 2014;;5-9;;101110;Forarbejdning af svinekød;55,668222;12,560374
+26121264;1018525875;False;Danish Crown A/S OD Holsted;Energivej 5-7;6670.0;Holsted;False;;GTH@danishcrown.dk;30/05 - 2013;;100-199;;101190;Forarbejdning af andet kød;55,5234272;8,9110035
+26121264;1016497173;False;Danish Crown A/S;Åbenråvej 11;6780.0;Skærbæk;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;;50-99;;101110;Forarbejdning af svinekød;55,155712;8,776351
+26121264;1016497114;False;Danish Crown A/S;Erhvervsparken 2;7280.0;Sønder Felding;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;;50-99;;101190;Forarbejdning af andet kød;55,94697;8,78098
+26121264;1018525883;False;Danish Crown A/S SD Holsted;Energivej 5-7;6670.0;Holsted;False;;;30/05 - 2013;;5-9;;101110;Forarbejdning af svinekød;55,5234272;8,9110035
+26121264;1018775839;False;Holsted Produktion;Grindstedvej 2;6670.0;Holsted;False;;;25/09 - 2013;;200-499;;101190;Forarbejdning af andet kød;55,525216;8,906523
+26121264;1016497092;False;Danish Crown A/S;Svanningevej 1;9220.0;Aalborg Øst;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;;100-199;;101190;Forarbejdning af andet kød;57,0369;10,02457
+26121264;1017997676;False;Danish Crown A/S;Tulipvej 1;8940.0;Randers SV;False;;;15/10 - 2012;;50-99;;101110;Forarbejdning af svinekød;56,41256;10,06367
+26121264;1016497483;False;Danish Crown A/S;Østbirkvej 2;8700.0;Horsens;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;;1000-999999;;101110;Forarbejdning af svinekød;55,916709;9,82756
+26121264;1016497157;False;Danish Crown A/S;Wenbovej 9;9300.0;Sæby;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;;500-999;;101110;Forarbejdning af svinekød;57,3322496;10,5124545
+26121264;1016497149;False;Danish Crown A/S;Bragesvej 18;4100.0;Ringsted;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;;500-999;;101110;Forarbejdning af svinekød;55,429278;11,798537
+26121264;1016458798;False;Danish Crown A/S;Haslevej 19;3700.0;Rønne;False;89191919.0;;22/11 - 2010;;100-199;;101110;Forarbejdning af svinekød;55,112271;14,70383
+26121264;1016459085;False;Danish Crown A/S;Danmarksgade 22;7400.0;Herning;False;89191919.0;dc@danishcrown.dk;22/11 - 2010;;500-999;;101110;Forarbejdning af svinekød;56,133382;8,982235
+26121264;1016497165;False;Danish Crown A/S;Langbro 7;6400.0;Sønderborg;False;89191919.0;dc@danishcrown.dk;10/12 - 2010;;1000-999999;;101110;Forarbejdning af svinekød;54,981859;9,654773
+26121264;1008535716;True;DANISH CROWN A/S;Marsvej 43;8960.0;Randers SØ;False;89191919.0;gth@danishcrown.dki;01/07 - 2001;;500-999;;101110;Forarbejdning af svinekød;56,43;10,0598
+26121264;1023432966;False;DANISH CROWN A/S;Gammelby Ringvej 1;6700.0;Esbjerg;True;89191223.0;sumi@danishcrown.dk;14/09 - 2017;;2-4;;101110;Forarbejdning af svinekød;55,462987;8,46148
+26121264;1016511869;False;Danish Crown A/S;Danmarksgade 22;7400.0;Herning;False;89191919.0;dc@danishcrown.dk;16/12 - 2010;;2-4;;101190;Forarbejdning af andet kød;56,133382;8,982235
+26121264;1023342525;False;Group Procurement;Engelsholmvej 28;8940.0;Randers SV;False;89191123.0;sumi@danishcrown.dk;01/10 - 2017;;1;;101110;Forarbejdning af svinekød;56,41591;10,06879
+26786576;1017119059;False;TICAN FRESH MEAT ANSAGER A/S;Åvænget 9;6823.0;Ansager;False;99192330.0;tican@tican.dk;14/09 - 2011;31/12 - 2018;0;;101110;Forarbejdning af svinekød;55,706985;8,748688
+26786576;1011140358;False;TICAN PROCES A/S;Åvænget 9;6823.0;Ansager;False;;;16/02 - 2005;16/02 - 2005;;;151390;Kødforarbejdning i øvrigt;55,706985;8,748688
+26786576;1017119032;False;TICAN FRESH MEAT FJERRITSLEV A/S;Grønnegade 21;9690.0;Fjerritslev;False;99192330.0;tican@tican.dk;14/09 - 2011;31/10 - 2019;0;;101110;Forarbejdning af svinekød;57,0874;9,257848
+26786576;1017119075;False;TICAN FRESH MEAT VEJLE A/S;Skomagervej 11C;7100.0;Vejle;False;99192330.0;TICAN@TICAN.DK;14/09 - 2011;31/10 - 2019;2-4;;101110;Forarbejdning af svinekød;55,682405;9,579956
+26786576;1009320225;True;TICAN FRESH MEAT THISTED A/S;Strandvejen 6;7700.0;Thisted;False;99192300.0;TICAN@TICAN.DK;18/09 - 2002;;500-999;;101110;Forarbejdning af svinekød;56,954275;8,69977
+26786576;1024192039;False;Tican Fresh Meat A/S, Brørup;Markedsvej 9;6650.0;Brørup;True;99192300.0;tican@tican.dk;01/01 - 2019;;200-499;;101110;Forarbejdning af svinekød;55,482877;9,011014
+39547430;1023591738;True;Jensen's Slagtehus ApS;Rigtrupvej 44;8370.0;Hadsten;True;86491416.0;information@jensens-slagtehus.dk;07/05 - 2018;;;;101110;Forarbejdning af svinekød;56,36801;10,18618
+14641998;1000777366;True;HØVE SLAGTERI;Høvevej 65;4550.0;Asnæs;False;;;01/11 - 1990;;0;Slagtermester Jan Lund;101110;Forarbejdning af svinekød;55,836033;11,486765
+14641998;1013560656;False;Høve Slagteri Kød Engros;Høvevej 65;4550.0;Asnæs;False;;;28/08 - 2007;;0;;101110;Forarbejdning af svinekød;55,836033;11,486765
+41280158;1025719774;True;Slagter Kristian Sand Olesen;Brandevej 24;7430.0;Ikast;True;;ks.olesen@hotmail.com;13/04 - 2020;;;;101110;Forarbejdning af svinekød;56,075891;9,145044
+21942677;1006345209;True;Jensens Slagtehus Morten Enggrob Jensen;Rigtrupvej 44;8370.0;Hadsten;False;;information@jensens-slagtehus.dk;01/09 - 1999;;2-4;;101110;Forarbejdning af svinekød;56,36801;10,18618
+28649398;1011531276;True;Smedegård v/ John Kristian Jensen;Kytterupvej 11;6990.0;Ulfborg;False;;;18/07 - 2005;;0;;101110;Forarbejdning af svinekød;56,3019656;8,3372115
+36590696;1020368930;True;Sæby Gårdslagteri I/S;Ålborgvej 108;9300.0;Sæby;True;60443804.0;kontakt@saebygaardslagteri.dk;01/05 - 2015;;0;;101110;Forarbejdning af svinekød;57,319789;10,474976
+40690484;1024912236;True;Den tørrede gris;St. Ladegårdsvej 8;4180.0;Sorø;True;23262216.0;Skovgrisen@gmail.com;08/08 - 2019;;;Niels Bjerregård Pedersen;101110;Forarbejdning af svinekød;55,41963;11,614354
+38119362;1021863153;True;Riberholdt Consulting;Hvalfisken 11;7500.0;Holstebro;True;30142120.0;idomlund@gmail.com;19/10 - 2016;;0;;101110;Forarbejdning af svinekød;56,367858;8,666986
+30267699;1013067070;True;Ulfborg Slagteri v/Per O Nielsen;Industriarealet 40;6990.0;Ulfborg;False;97492200.0;;01/04 - 2007;;1;;101110;Forarbejdning af svinekød;56,26132;8,31914
+35909737;1019567547;True;Ømands I/S;Sønder Vilstrup Bygade 1B;6100.0;Haderslev;False;;aungstrup@gmail.com;18/07 - 2014;;0;;101110;Forarbejdning af svinekød;55,191685;9,516777
+32572154;1015694293;True;Hjemmeslagter Martin Jørgensen;Harres 4;6261.0;Bredebro;False;73710044.0;martinhjemmeslagter@sol.dk;01/12 - 2009;;0;;101110;Forarbejdning af svinekød;55,057086;8,780033
+27302165;1010043448;True;Grenaa Slagtehus I/S v/Tage Sehested Severinsen og Peder Bertelsen;Tempovej 18;8500.0;Grenaa;False;86327032.0;mail@grenaaslagtehus.dk;01/09 - 2003;;5-9;Peder Bertelsen;101110;Forarbejdning af svinekød;56,422701;10,902901
+35696032;1019284944;True;Concepcion Pimentel Schallert;Auningvej 3;8963.0;Auning;True;;concepcionp3@rougsoes.net;01/01 - 2014;;0;;101110;Forarbejdning af svinekød;56,44901;10,40623
+26669170;1009181136;True;Selskabet af 01.01.2002 ApS;Industrivej 17D;4490.0;Jerslev Sjælland;False;59596200.0;berit@hvidebaek-slagteri.dk;01/01 - 2002;;2-4;;101110;Forarbejdning af svinekød;55,6139471;11,2163612
+30647653;1023017551;False;Sties Multiservice;Koldingvej 27;4200.0;Slagelse;True;;leslie.stie@gmail.com;01/11 - 2017;08/08 - 2018;;;101110;Forarbejdning af svinekød;55,417668;11,356952
+30647653;1019390442;False;LS Service v/Leslie Stie;Kierulffsvej 36, 03. th.;4200.0;Slagelse;True;21722212.0;leslie.stie@gmail.com;01/06 - 2014;28/02 - 2015;;Leslie Stie;773200;Udlejning og leasing af entreprenørmateriel;55,41509;11,35534
+30647653;1013462506;False;LS-Montage /Leslie Helleskov Stie;Koldingvej 27;4200.0;Slagelse;False;21722212.0;;01/06 - 2007;30/06 - 2011;;;952900;Reparation af andre varer til personligt brug og husholdningsbrug;55,417668;11,356952
+30647653;1026253132;False;Råmose Friland;Nyrupvej 2;4200.0;Slagelse;True;;raamosefriland@outlook.dk;01/08 - 2020;;;;14620;Produktion af slagtesvin;55,2509853;11,4786566
+28364733;1011142113;False;Brian Hald Thrane;Puggårdsvej 76;6771.0;Gredstedbro;False;;;21/02 - 2005;15/09 - 2006;;;151390;Kødforarbejdning i øvrigt;55,42718;8,8
+28364733;1014894620;True;Mobil Hjemmeslagt v/Brian Hald Thrane;Stationsvej 8;6600.0;Vejen;False;42390960.0;;01/12 - 2008;31/12 - 2012;;;101110;Forarbejdning af svinekød;55,47014;9,238377
+35765417;1019379384;True;Håsum Chacuteri;Landevejen 28;7860.0;Spøttrup;False;;ulriklajgaard@gmail.com;02/05 - 2014;31/05 - 2015;;Ulrik Lajgaard;101110;Forarbejdning af svinekød;56,57764;8,84833
+35099417;1018534998;True;Sindal Slagtehus;Nejstvej 99;9870.0;Sindal;False;;info@sindalslagtehus.dk;01/07 - 2013;31/12 - 2017;0;;101110;Forarbejdning af svinekød;57,4818512;10,2418538
+16860808;1001173232;True;CARL HERSE;Rævekærvej 4;6230.0;Rødekro;False;74698121.0;;01/04 - 1993;30/06 - 2009;0;;101110;Forarbejdning af svinekød;55,12558;9,37579
+25006267;1007206433;True;Hvam Slagterhus I/S;Gl. Viborgvej 86;9620.0;Aalestrup;False;98648003.0;;11/10 - 1999;19/11 - 2017;2-4;;101110;Forarbejdning af svinekød;56,657596;9,5110209
+38998455;1001774748;True;AIDT SLAGTEHUS V/DANNIE TOM JØRGENSEN;Bavnehøjvej 1;8881.0;Thorsø;False;86966943.0;;01/02 - 1987;31/12 - 2010;0;;101110;Forarbejdning af svinekød;56,31174;9,80635
+30475135;1013368976;True;Jørgen Olsen;Elmekrogen 4;3200.0;Helsinge;False;21629620.0;jio@postil.tele.dk;01/08 - 2007;31/12 - 2009;;;101110;Forarbejdning af svinekød;56,019965;12,185724
+13069948;1005556856;False;HANDELSFIRMA TONI ABRAHAMSEN; 4;9999.0;Ukendt;False;;;01/04 - 1985;31/01 - 1998;;;980000;Uoplyst;55,68668;12,52473
+13069948;1004399491;True;Tonis Slagterhus v/Toni Abrahamsen;Stenagervej 4;6240.0;Løgumkloster;True;;;01/02 - 1998;28/02 - 2018;2-4;;101110;Forarbejdning af svinekød;55,0812;9,10019
+32792162;1015952039;True;Norwest Foods International ltd;Nygade 5-7;9760.0;Vrå;False;96248500.0;ces@d-m-c.dk;06/04 - 2010;30/09 - 2010;;Danish Meat CompanyA/S C.Sørensen;101110;Forarbejdning af svinekød;57,3541415;9,9482124
+33432550;1016689706;True;KS Kød I/S;Hvamvej 23;7500.0;Holstebro;False;40102617.0;;01/04 - 2011;30/09 - 2012;0;;101110;Forarbejdning af svinekød;56,409374;8,730635
+15085681;1005700071;True;SLAGTERISELSKABET DANISH CROWN AMBA SVINEDIVISION NORD;Østergade 8;8850.0;Bjerringbro;False;;;01/04 - 1991;06/07 - 2010;;;101110;Forarbejdning af svinekød;56,375179;9,661068
+25208897;1021329831;True;Morsø Slagteri;Food Parken 3;7900.0;Nykøbing M;False;;;25/02 - 2016;23/03 - 2018;0;;101110;Forarbejdning af svinekød;56,82058;8,78616
+25208897;1007423191;False;Hanen;Slettestrandvej 148;9690.0;Fjerritslev;False;97769799.0;morsslh@gmail.com;15/02 - 2000;01/08 - 2014;2-4;;561010;Restauranter;57,15298;9,36415
+25208897;1014765960;False;Strandcafeen;Slettestrandvej 148;9690.0;Fjerritslev;False;97769799.0;morsslh@gmail.com;30/09 - 2008;01/08 - 2014;0;;561010;Restauranter;57,15298;9,36415
+25208897;1017153648;False;Morsø Slagteri;Food Parken 3;7900.0;Nykøbing M;False;97769799.0;morsslh@gmail.com;27/09 - 2011;18/02 - 2016;0;Østergade 63 9690 Fjerritslev;561010;Restauranter;56,82058;8,78616
+35786171;1019468786;True;Sæby Gårdslagteri;Hasselvej 2;9300.0;Sæby;False;60443804.0;logt@email.dk;01/06 - 2014;30/06 - 2020;0;;101110;Forarbejdning af svinekød;57,324578;10,489376
+29139725;1011751179;True;DANISH MEAT COMPANY A/S;Nygade 5-7;9760.0;Vrå;False;96248500.0;lunden@asdal.dk;12/10 - 2005;11/12 - 2012;100-199;;101110;Forarbejdning af svinekød;57,3541415;9,9482124
+10130816;1009669333;True;MORSØ SLAGTERI OG KØDENGROS ApS;Food Parken 3;7900.0;Nykøbing M;False;97720074.0;;31/01 - 2003;03/07 - 2013;10-19;;101110;Forarbejdning af svinekød;56,82058;8,78616
+32664601;1015740449;True;AKTIESELSKABET AF 28. DECEMBER 2009;Store Kongensgade 69;1264.0;København K;False;;;28/12 - 2009;22/06 - 2012;;Mazanti-Andersen, Korsø Jensen &amp; Partner;101110;Forarbejdning af svinekød;55,684946;12,588052
+31067693;1013797621;True;VESTFYENS SLAGTEHUS ApS;Industrivej 2;5592.0;Ejby;False;86255256.0;;22/11 - 2007;26/04 - 2012;;;101110;Forarbejdning af svinekød;55,440784;9,944566
+14417176;1000739803;True;GUDME PRIVATSLAGTERI ApS;Teglværksvej 89;5884.0;Gudme;False;62251081.0;johnf@nielsen.mail.dk;01/08 - 1990;11/07 - 2017;1;;101110;Forarbejdning af svinekød;55,155059;10,701835
+20958472;1003029226;True;SKOVGAARD'S SLAGTERI OG KØDOPSKÆRING A/S;Industrivej 7;5750.0;Ringe;False;62621096.0;;02/09 - 1968;16/11 - 2012;0;;101110;Forarbejdning af svinekød;55,24836;10,486534
+20958472;1006234479;False;SKOVGAARD'S SLAGTERI OG KØDOPSKÆRING A/S; 7;9999.0;Ukendt;False;;;17/06 - 1998;31/07 - 1998;;;980000;Uoplyst;55,55915;9,73551
+30812271;1013568673;True;MOESGAARD MEAT A/S;Naurvej 17;7500.0;Holstebro;False;97432326.0;;24/08 - 2007;16/11 - 2015;0;;101110;Forarbejdning af svinekød;56,3904774;8,5272974
+10112613;1009643466;True;TAGMOSES SLAGTEHUS, TISTRUP ApS;Frejasvej 13;6862.0;Tistrup;False;75292172.0;;01/01 - 2003;21/12 - 2009;5-9;;101110;Forarbejdning af svinekød;55,71046;8,60454
+86555816;1009405875;False;SKARRESØ PRIVATSLAGTERI A/S;Holbækvej 328;4440.0;Mørkøv;False;;;01/01 - 2001;01/05 - 2005;0;;513200;Engroshandel med kød og kødprodukter;55,663961;11,552862
+86555816;1003215414;True;SKARRESØ PRIVATSLAGTERI A/S;Bødkervej 1;4450.0;Jyderup;False;59277200.0;;01/10 - 1992;19/06 - 2014;0;;101110;Forarbejdning af svinekød;55,648706;11,431216
+86555816;1006910360;False;SKARRESØ PRIVATSLAGTERI A/S; 328;9999.0;Ukendt;False;;;22/06 - 1979;30/09 - 1992;;;980000;Uoplyst;56,03481674194336;9,319071769714355
+29148287;1011779049;False;JUTLAND MEAT A/S;Havnevej 8;7600.0;Struer;False;;;25/10 - 2005;26/10 - 2005;;;151110;Svineslagterier;56,492928;8,603027
+29148287;1003030417;True;JUTLAND MEAT A/S;Havnevej 8;7600.0;Struer;False;96843500.0;;10/02 - 2000;18/10 - 2019;0;;101110;Forarbejdning af svinekød;56,492928;8,603027
+31279585;1014251061;True;HÅRBY SLAGTEHUS ApS;Den Grønne Vej 1;8660.0;Skanderborg;False;;;29/02 - 2008;16/04 - 2019;0;;101110;Forarbejdning af svinekød;56,081277;9,894588
+34734496;1018059041;True;DANISH MEAT COMPANY, VRAA A/S;Nygade 5-7;9760.0;Vrå;False;;;13/11 - 2012;14/08 - 2018;2-4;;101110;Forarbejdning af svinekød;57,3541415;9,9482124
+31279844;1014251398;True;H. S. SLAGTERI, SKANDERBORG ApS;Den Grønne Vej 1;8660.0;Skanderborg;False;;;29/02 - 2008;21/12 - 2015;20-49;;101110;Forarbejdning af svinekød;56,081277;9,894588
+25322894;1007560059;True;NORDKØD ApS;Harløsevej 224;3400.0;Hillerød;False;48210417.0;;01/04 - 2000;14/06 - 2016;0;;101110;Forarbejdning af svinekød;55,925241;12,218738
+21239372;1004790754;True;VOERLADEGAARD SLAGER A/S;Holmedal 28;8660.0;Skanderborg;False;75782040.0;;01/10 - 1998;26/08 - 2010;0;;101110;Forarbejdning af svinekød;56,024133;9,73074
+25022173;1007225314;True;EJENDOMSSELSKABET LASK ApS;Munkhulevej 5;6990.0;Ulfborg;False;;;11/11 - 1999;28/10 - 2009;1;Lars Andersen;101110;Forarbejdning af svinekød;56,25198;8,23172
+45613410;1009575495;False;DAKA A.M.B.A.;Viumvej 20;7870.0;Roslev;False;;;01/01 - 2002;31/01 - 2007;1;;151140;Destruktionsanstalter og benmelsfabrikker;56,7001871;8,9802333
+45613410;1008483341;False;Kødfoderfabrikken Østjyden;Vesterhede 1;6950.0;Ringkøbing;False;;;01/01 - 2000;31/12 - 2001;1;;151390;Kødforarbejdning i øvrigt;56,112098;8,261
+45613410;1008483384;False;Daka A.M.B.A.;Rørsangervænget 25;5610.0;Assens;False;;;01/01 - 2000;31/12 - 2001;0;;151390;Kødforarbejdning i øvrigt;55,274334;9,914908
+45613410;1010109481;False;DAKA A.M.B.A.;Vesterhede 4;6950.0;Ringkøbing;False;;;01/01 - 2002;31/01 - 2007;1;;151140;Destruktionsanstalter og benmelsfabrikker;56,1167983;8,257862
+45613410;1018202847;False;Daka Proteins Lunderskov;Dakavej 12;6640.0;Lunderskov;False;76745111.0;jhb@kromannreumert.com;17/01 - 2013;17/01 - 2013;;;101110;Forarbejdning af svinekød;55,47705;9,313231
+45613410;1018202898;False;Daka Proteins Nyker;Buldregårdsvej 2;3700.0;Rønne;False;76745111.0;jhb@kromannreumert.com;17/01 - 2013;17/01 - 2013;;;101110;Forarbejdning af svinekød;55,13122;14,75796
+45613410;1018202863;False;Daka Bio-Industries Ortved;Hejdesvej 23;4100.0;Ringsted;False;76745111.0;jhb@kromannreumert.com;17/01 - 2013;17/01 - 2013;;;101110;Forarbejdning af svinekød;55,488785;11,846044
+45613410;1018205277;False;Daka Bio-Industries Randers;Kronjydevej 8;8960.0;Randers SØ;False;87959222.0;;17/01 - 2013;17/01 - 2013;;;101110;Forarbejdning af svinekød;56,45159;10,12794
+45613410;1003084737;False;DAKA A.M.B.A.;Laurits Hauges Vej 3;9400.0;Nørresundby;False;;;01/01 - 1988;31/12 - 1999;;;151390;Kødforarbejdning i øvrigt;57,060743;9,915696
+45613410;1003084695;False;DAKA A.M.B.A.;Viumvej 22;7870.0;Roslev;False;;;01/01 - 1988;30/09 - 2002;1;;151390;Kødforarbejdning i øvrigt;56,681548;8,969024
+45613410;1003174303;False;DAKA A.M.B.A.;Hejdesvej 23;4100.0;Ringsted;False;57528132.0;;01/01 - 1987;30/06 - 2012;0;;101110;Forarbejdning af svinekød;55,488785;11,846044
+45613410;1003084683;True;ANDELSSELSKABET AF 2. JULI 2012;Dakavej 10;8723.0;Løsning;False;76745111.0;;02/10 - 1972;31/01 - 2014;0;;101110;Forarbejdning af svinekød;55,799625;9,671237
+45613410;1009096465;False;DAKA A.M.B.A;Buldregårdsvej 2;3700.0;Rønne;False;56963266.0;;13/05 - 2002;13/05 - 2002;;Nyker;151390;Kødforarbejdning i øvrigt;55,13122;14,75796
+45613410;1003084713;False;DAKA A.M.B.A.;Kronjydevej 8;8960.0;Randers SØ;False;87959222.0;;01/01 - 1988;30/06 - 2012;0;;101110;Forarbejdning af svinekød;56,45159;10,12794
+37172855;1020831398;True;XYÅ af 30.12.2018 A/S;Brunagervej 1;8361.0;Hasselager;False;;;09/10 - 2015;26/03 - 2020;;;101110;Forarbejdning af svinekød;56,1008;10,07121
+70243016;1004836247;False;STEFF-HOULBERG SLAGTERIERNE AMBA BRØNDBY AFD. P.O. BOKS 272;Kirkebjerg Parkvej 9;2605.0;Brøndby;False;43428993.0;;01/01 - 1999;31/03 - 2000;0;;151390;Kødforarbejdning i øvrigt;55,659378;12,395431
+70243016;1008239130;False;Steff-Houlberg Slagterierne Landsby-Slagteren;Erhvervsparken 2;7280.0;Sønder Felding;False;;;01/01 - 2000;01/01 - 2000;;;151390;Kødforarbejdning i øvrigt;55,94697;8,78098
+70243016;1008757549;False;STEFF-HOULBERG A.M.B.A. POSTBOKS 120;Bragesvej 18;4100.0;Ringsted;False;57616263.0;;01/01 - 2002;01/01 - 2002;;;151390;Kødforarbejdning i øvrigt;55,429278;11,798537
+70243016;1007953549;False;STEFF-FOOD A/S;Hørskætten 3;2630.0;Taastrup;False;;;01/10 - 1999;31/12 - 1999;5-9;;151110;Svineslagterier;55,662264;12,301663
+70243016;1003174340;False;STEFF-HOULBERG SLAGTERIERNE FORÆDLINGSAFD.;Roskildevej 12;3600.0;Frederikssund;False;47316165.0;;22/11 - 1976;31/03 - 2000;2-4;;151390;Kødforarbejdning i øvrigt;55,8327543;12,0718577
+70243016;1003174431;False;STEFF-HOULBERG SLAGTERIERNE DEMONSTRATRICER;UKENDT;;;False;;;01/01 - 1993;01/01 - 1993;5-9;;151110;Svineslagterier;55,8620217;12,3369135
+70243016;1009221650;True;STEFF-HOULBERG A.M.B.A.;Marsvej 43;8960.0;Randers SØ;False;;;19/07 - 2002;08/09 - 2009;;DANISH CROWN AmbA;101110;Forarbejdning af svinekød;56,43;10,0598
+62011513;1003147838;True;SB PORK A/S;Markedsvej 9;6650.0;Brørup;False;75381433.0;;01/01 - 1991;08/01 - 2019;200-499;;101110;Forarbejdning af svinekød;55,482877;9,011014
+62011513;1006692502;False;SLAGTERIET BRØRUP A/S; 10;9999.0;Ukendt;False;;;11/08 - 1980;31/12 - 1990;;;980000;Uoplyst;22,6873779;120,4840149

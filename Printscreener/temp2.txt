@@ -1,0 +1,4 @@
+﻿url;other
+"'https://kort.degulesider.dk/?c=55.488684,8.473232&z=17&l=aerial&q=%22arla%20foods%20amba%20esbjreg%20mejeri%22;yp';jan"
+"https://kort.degulesider.dk/?c=55.464642,8.570666&z=16&l=aerial&q=%22arla%20foods%20amba%20esbjreg%20mejeri%22;yp;george"
+"https://kort.degulesider.dk/?c=55.462990,8.656873&z=17&l=aerial&q=%22arla%20foods%20amba%20esbjreg%20mejeri%22;yp;lol"
